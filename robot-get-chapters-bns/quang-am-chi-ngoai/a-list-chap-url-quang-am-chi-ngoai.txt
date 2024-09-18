@@ -1,0 +1,4782 @@
+[
+    {
+        "chap": "Chương 1: Còn sống",
+        "url": "/reader/quan-am-chi-ngoai-convert/vpbe"
+    },
+    {
+        "chap": "Chương 02: Dị chất",
+        "url": "/reader/quan-am-chi-ngoai-convert/awmp"
+    },
+    {
+        "chap": "Chương 3: Chúc. . . An giấc ngàn thu",
+        "url": "/reader/quan-am-chi-ngoai-convert/uhvq"
+    },
+    {
+        "chap": "Chương 04: Khách không mời mà đến",
+        "url": "/reader/quan-am-chi-ngoai-convert/ajdq"
+    },
+    {
+        "chap": "Chương 05: Người nhặt rác doanh địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/tzuh"
+    },
+    {
+        "chap": "Chương 06: Tiểu hài",
+        "url": "/reader/quang-am-chi-ngoai-convert/iyjv"
+    },
+    {
+        "chap": "Chương 7: Mời ngươi ăn",
+        "url": "/reader/quang-am-chi-ngoai-convert/aesv"
+    },
+    {
+        "chap": "Chương 08: Ba bộ bát đũa",
+        "url": "/reader/quang-am-chi-ngoai-convert/kwgi"
+    },
+    {
+        "chap": "Chương 09: Uy hiếp hậu quả",
+        "url": "/reader/quang-am-chi-ngoai-convert/ngzx"
+    },
+    {
+        "chap": "Chương 10: Quần áo mới",
+        "url": "/reader/quang-am-chi-ngoai-convert/rvhn"
+    },
+    {
+        "chap": "Chương 11: Tập kết",
+        "url": "/reader/quang-am-chi-ngoai-convert/emhl"
+    },
+    {
+        "chap": "Chương 12: Cấm khu cấm kỵ",
+        "url": "/reader/quang-am-chi-ngoai-convert/jthz"
+    },
+    {
+        "chap": "Chương 13: Tà Ảnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/bvqe"
+    },
+    {
+        "chap": "Chương 14: Nguy cơ tứ phía [Thượng]",
+        "url": "/reader/quang-am-chi-ngoai-convert/wipu"
+    },
+    {
+        "chap": "Chương 14: Nguy cơ tứ phía [Hạ]",
+        "url": "/reader/quang-am-chi-ngoai-convert/deht"
+    },
+    {
+        "chap": "Chương 15: Huyết sắc hoàng hôn [Thượng]",
+        "url": "/reader/quang-am-chi-ngoai-convert/muny"
+    },
+    {
+        "chap": "Chương 15: Huyết sắc hoàng hôn [Hạ]",
+        "url": "/reader/quang-am-chi-ngoai-convert/nrtm"
+    },
+    {
+        "chap": "Chương 16: Quân vấn quy kỳ, vị hữu kỳ [Thượng]",
+        "url": "/reader/quang-am-chi-ngoai-convert/vxku"
+    },
+    {
+        "chap": "Chương 16: Quân vấn quy kỳ, vị hữu kỳ [Hạ]",
+        "url": "/reader/quang-am-chi-ngoai-convert/gbwy"
+    },
+    {
+        "chap": "Chương 17: Ngươi, đến cùng là cái gì",
+        "url": "/reader/quang-am-chi-ngoai-convert/qsoc"
+    },
+    {
+        "chap": "Chương 18: Bách đại sư",
+        "url": "/reader/quang-am-chi-ngoai-convert/flgi"
+    },
+    {
+        "chap": "Chương 19: Khói lửa nhân gian",
+        "url": "/reader/quang-am-chi-ngoai-convert/ovfm"
+    },
+    {
+        "chap": "Chương 20: Nhà?",
+        "url": "/reader/quang-am-chi-ngoai-convert/gmqw"
+    },
+    {
+        "chap": "Chương 21: Tri thức khát vọng",
+        "url": "/reader/quang-am-chi-ngoai-convert/zxra"
+    },
+    {
+        "chap": "Chương 22: Thần miếu",
+        "url": "/reader/quang-am-chi-ngoai-convert/mezd"
+    },
+    {
+        "chap": "Chương 23: Một đao kia [Thượng]",
+        "url": "/reader/quang-am-chi-ngoai-convert/cnij"
+    },
+    {
+        "chap": "Chương 23: Một đao kia [Hạ]",
+        "url": "/reader/quang-am-chi-ngoai-convert/ldft"
+    },
+    {
+        "chap": "Chương 24: Tiểu hài, ngươi đến trả lời",
+        "url": "/reader/quang-am-chi-ngoai-convert/wuex"
+    },
+    {
+        "chap": "Chương 25: Độc đạo: Hủy thi tán",
+        "url": "/reader/quang-am-chi-ngoai-convert/pbov"
+    },
+    {
+        "chap": "Chương 26: Một người xế chiều",
+        "url": "/reader/quang-am-chi-ngoai-convert/xabr"
+    },
+    {
+        "chap": "Chương 27: Mạch thượng nhân như ngọc",
+        "url": "/reader/quang-am-chi-ngoai-convert/ornf"
+    },
+    {
+        "chap": "Chương 28: Đi tại đêm tối không cần ánh sáng",
+        "url": "/reader/quang-am-chi-ngoai-convert/xivg"
+    },
+    {
+        "chap": "Chương 29:. Mắt đoạn Phi Hồng",
+        "url": "/reader/quang-am-chi-ngoai-convert/hjef"
+    },
+    {
+        "chap": "Chương 30:. Lịch Dương vũ Kim",
+        "url": "/reader/quang-am-chi-ngoai-convert/tsfz"
+    },
+    {
+        "chap": "Chương 31:. Hắn mua bảo hiểm của ta",
+        "url": "/reader/quang-am-chi-ngoai-convert/oskz"
+    },
+    {
+        "chap": "Chương 32: Trái sinh phải chết",
+        "url": "/reader/quang-am-chi-ngoai-convert/mgjo"
+    },
+    {
+        "chap": "Chương 33:. Vĩnh hằng hắc",
+        "url": "/reader/quang-am-chi-ngoai-convert/gkne"
+    },
+    {
+        "chap": "Chương 34:. Không hẹn mà gặp",
+        "url": "/reader/quang-am-chi-ngoai-convert/fhad"
+    },
+    {
+        "chap": "Chương 35:. Bởi vì gió đã bắt đầu thổi nhăn",
+        "url": "/reader/quang-am-chi-ngoai-convert/tmzy"
+    },
+    {
+        "chap": "Chương 36:. Giết chết bất luận tội",
+        "url": "/reader/quang-am-chi-ngoai-convert/hqmz"
+    },
+    {
+        "chap": "Chương 37:. Quyền sinh sát trong tay",
+        "url": "/reader/quang-am-chi-ngoai-convert/lcao"
+    },
+    {
+        "chap": "Chương 38:. Tru tẫn sát tuyệt",
+        "url": "/reader/quang-am-chi-ngoai-convert/yekt"
+    },
+    {
+        "chap": "Chương 39:. Một khúc tàn phế tình niệm hồng trần",
+        "url": "/reader/quang-am-chi-ngoai-convert/iotw"
+    },
+    {
+        "chap": "Chương 40:. Phát triển",
+        "url": "/reader/quang-am-chi-ngoai-convert/quzx"
+    },
+    {
+        "chap": "Chương 41:. Thiên la địa võng",
+        "url": "/reader/quang-am-chi-ngoai-convert/gkhr"
+    },
+    {
+        "chap": "Chương 42:. Bạch y vô diện nữ tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/mhjb"
+    },
+    {
+        "chap": "Chương 43:. Khôi ảnh đại thành",
+        "url": "/reader/quang-am-chi-ngoai-convert/dhen"
+    },
+    {
+        "chap": "Chương 44:. Bởi vì nhân quả",
+        "url": "/reader/quang-am-chi-ngoai-convert/ifhr"
+    },
+    {
+        "chap": "Chương 45:. Có thù tất báo",
+        "url": "/reader/quang-am-chi-ngoai-convert/vjyz"
+    },
+    {
+        "chap": "Chương 46:. Hỏa thiêu Kim Cương Tông",
+        "url": "/reader/quang-am-chi-ngoai-convert/azcm"
+    },
+    {
+        "chap": "Chương 47:. Thất Huyết Đồng",
+        "url": "/reader/quang-am-chi-ngoai-convert/fpwd"
+    },
+    {
+        "chap": "Chương 48:. Thi thể bán không?",
+        "url": "/reader/quang-am-chi-ngoai-convert/urpw"
+    },
+    {
+        "chap": "Chương 49:. Thần Tính chi huyết",
+        "url": "/reader/quang-am-chi-ngoai-convert/ceor"
+    },
+    {
+        "chap": "Chương 50:. Thứ bảy ngọn núi",
+        "url": "/reader/quang-am-chi-ngoai-convert/jkwh"
+    },
+    {
+        "chap": "Chương 51:. Lấy thuyền mà sống (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/uamr"
+    },
+    {
+        "chap": "Chương 51:. Lấy thuyền mà sống (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/xmaz"
+    },
+    {
+        "chap": "Chương 52:. Đồng liêu",
+        "url": "/reader/quang-am-chi-ngoai-convert/ovnl"
+    },
+    {
+        "chap": "Chương 53:. Lấy biển làm tu (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/tsju"
+    },
+    {
+        "chap": "Chương 53:. Lấy biển làm tu (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/xozv"
+    },
+    {
+        "chap": "Chương 54:. Hóa bướm",
+        "url": "/reader/quang-am-chi-ngoai-convert/ozui"
+    },
+    {
+        "chap": "Chương 55:. Kỳ quái đội trưởng (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/qmvk"
+    },
+    {
+        "chap": "Chương 55:. Kỳ quái đội trưởng (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/cbik"
+    },
+    {
+        "chap": "Chương 56:. Bộ Hung Ti người mới",
+        "url": "/reader/quang-am-chi-ngoai-convert/ngzs"
+    },
+    {
+        "chap": "Chương 57:. Cho một cái linh tệ",
+        "url": "/reader/quang-am-chi-ngoai-convert/odcr"
+    },
+    {
+        "chap": "Chương 58:. Một người sinh nhật",
+        "url": "/reader/quang-am-chi-ngoai-convert/xvzj"
+    },
+    {
+        "chap": "Chương 59: Dạ vũ cô ảnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/srzk"
+    },
+    {
+        "chap": "Chương 60: Không phải mời lớn lao vào",
+        "url": "/reader/quang-am-chi-ngoai-convert/znrf"
+    },
+    {
+        "chap": "Chương 61: Bóng hình xinh đẹp dưới tán ô",
+        "url": "/reader/quang-am-chi-ngoai-convert/irfb"
+    },
+    {
+        "chap": "Chương 62: Lão sắc phôi (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/rqcu"
+    },
+    {
+        "chap": "Chương 62: Lão sắc phôi (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/odqs"
+    },
+    {
+        "chap": "Chương 63: Cần cù Hứa Thanh",
+        "url": "/reader/quang-am-chi-ngoai-convert/wcxe"
+    },
+    {
+        "chap": "Chương 65: Giá trị một trăm Linh Thạch bí mật (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/rckp"
+    },
+    {
+        "chap": "Chương 65: Giá trị một trăm Linh Thạch bí mật (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/dlea"
+    },
+    {
+        "chap": "Chương 66: Đoạt ta công? (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/jnap"
+    },
+    {
+        "chap": "Chương 66: Đoạt ta công? (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/fedp"
+    },
+    {
+        "chap": "Chương 67: Vượt lằn ranh đỏ!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ajyl"
+    },
+    {
+        "chap": "Chương 68: Có tất cả không dễ",
+        "url": "/reader/quang-am-chi-ngoai-convert/udkf"
+    },
+    {
+        "chap": "Chương 69: Hợp lý (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/wrxk"
+    },
+    {
+        "chap": "Chương 69: Hợp lý (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/qtug"
+    },
+    {
+        "chap": "Chương 70: Ta mời ngươi ăn trứng",
+        "url": "/reader/quang-am-chi-ngoai-convert/xvrd"
+    },
+    {
+        "chap": "Chương 71: Thần thần thao thao lão tổ (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/wqkm"
+    },
+    {
+        "chap": "Chương 71: Thần thần thao thao lão tổ (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/rfjq"
+    },
+    {
+        "chap": "Chương 72: Kinh khủng Hoàng Nham (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/tfhw"
+    },
+    {
+        "chap": "Chương 72: Kinh khủng Hoàng Nham (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/mzea"
+    },
+    {
+        "chap": "Chương 73:. Khí phách Nhị điện hạ",
+        "url": "/reader/quang-am-chi-ngoai-convert/zafl"
+    },
+    {
+        "chap": "Chương 74: Đường hoàng tuyền dẫn",
+        "url": "/reader/quang-am-chi-ngoai-convert/tydx"
+    },
+    {
+        "chap": "Chương 75: Sát ngư!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ponz"
+    },
+    {
+        "chap": "Chương 76: Bạt đốt thương sinh",
+        "url": "/reader/quang-am-chi-ngoai-convert/riud"
+    },
+    {
+        "chap": "Chương 77: Cấm Hải Long kình",
+        "url": "/reader/quang-am-chi-ngoai-convert/lebz"
+    },
+    {
+        "chap": "Chương 78: Trương Tam đặt cược",
+        "url": "/reader/quang-am-chi-ngoai-convert/jtyr"
+    },
+    {
+        "chap": "Chương 79: Người mới ra biển",
+        "url": "/reader/quang-am-chi-ngoai-convert/ahco"
+    },
+    {
+        "chap": "Chương 80: Thanh đồng long xe kéo",
+        "url": "/reader/quang-am-chi-ngoai-convert/ocxh"
+    },
+    {
+        "chap": "Chương 81: Giá cả vừa phải",
+        "url": "/reader/quang-am-chi-ngoai-convert/ltyj"
+    },
+    {
+        "chap": "Chương 82: Trăm âm thành âm",
+        "url": "/reader/quang-am-chi-ngoai-convert/eoqy"
+    },
+    {
+        "chap": "Chương 83: Thâm Hải Long ảnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/smqr"
+    },
+    {
+        "chap": "Chương 84: Lấy hải ngộ pháp",
+        "url": "/reader/quang-am-chi-ngoai-convert/ftir"
+    },
+    {
+        "chap": "Chương 85:. Hung thần lên đảo",
+        "url": "/reader/quang-am-chi-ngoai-convert/wysl"
+    },
+    {
+        "chap": "Chương 86: Đừng đến chọc ta",
+        "url": "/reader/quang-am-chi-ngoai-convert/xbic"
+    },
+    {
+        "chap": "Chương 87: Độc dạ",
+        "url": "/reader/quang-am-chi-ngoai-convert/wxey"
+    },
+    {
+        "chap": "Chương 88: Hứa Thanh pháp tắc",
+        "url": "/reader/quang-am-chi-ngoai-convert/yutn"
+    },
+    {
+        "chap": "Chương 89: Không thể phá vỡ minh hữu quan hệ",
+        "url": "/reader/quang-am-chi-ngoai-convert/gyqx"
+    },
+    {
+        "chap": "Chương 90: Làm cho người điên cuồng kim mang",
+        "url": "/reader/quang-am-chi-ngoai-convert/fdyt"
+    },
+    {
+        "chap": "Chương 91: Giết người đoạt bảo",
+        "url": "/reader/quang-am-chi-ngoai-convert/iyzr"
+    },
+    {
+        "chap": "Chương 92: Huyết nhuộm Hải Tích đảo",
+        "url": "/reader/quang-am-chi-ngoai-convert/ojgy"
+    },
+    {
+        "chap": "Chương 93: Giống như hoàng giống như ưng (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/faex"
+    },
+    {
+        "chap": "Chương 93: Giống như phượng hoàng giống như ưng (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/iqnm"
+    },
+    {
+        "chap": "Chương 94: Cố Mộc Thanh",
+        "url": "/reader/quang-am-chi-ngoai-convert/zlej"
+    },
+    {
+        "chap": "Chương 95: Chủ nợ tới cửa",
+        "url": "/reader/quang-am-chi-ngoai-convert/atqj"
+    },
+    {
+        "chap": "Chương 96: Quỷ dị khách sạn (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/oket"
+    },
+    {
+        "chap": "Chương 96: Quỷ dị khách sạn (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/qyat"
+    },
+    {
+        "chap": "Chương 97: Cuối cùng thấy La Sát",
+        "url": "/reader/quang-am-chi-ngoai-convert/fpsi"
+    },
+    {
+        "chap": "Chương 98: Năm mươi ra một",
+        "url": "/reader/quang-am-chi-ngoai-convert/bzrm"
+    },
+    {
+        "chap": "Chương 99: Hồng Nguyên hành trình",
+        "url": "/reader/quang-am-chi-ngoai-convert/idwl"
+    },
+    {
+        "chap": "Chương 100: Lão tổ lo âu",
+        "url": "/reader/quang-am-chi-ngoai-convert/guda"
+    },
+    {
+        "chap": "Chương 101: Chạy trời không khỏi nắng",
+        "url": "/reader/quang-am-chi-ngoai-convert/cytj"
+    },
+    {
+        "chap": "Chương 102: Vạn Kiếp Bất Phục",
+        "url": "/reader/quang-am-chi-ngoai-convert/bfmk"
+    },
+    {
+        "chap": "Chương 103: Gặp được đường sống trong cõi chết",
+        "url": "/reader/quang-am-chi-ngoai-convert/qkzt"
+    },
+    {
+        "chap": "Chương 104: Huyền U Cổ Hoàng",
+        "url": "/reader/quang-am-chi-ngoai-convert/yqic"
+    },
+    {
+        "chap": "Chương 105: Hai trăm bảy mươi",
+        "url": "/reader/quang-am-chi-ngoai-convert/bikz"
+    },
+    {
+        "chap": "Chương 106: Tiểu câm",
+        "url": "/reader/quang-am-chi-ngoai-convert/xqfm"
+    },
+    {
+        "chap": "Chương 107: Hứa Thanh sư đệ, có đây không",
+        "url": "/reader/quang-am-chi-ngoai-convert/smpa"
+    },
+    {
+        "chap": "Chương 108: Con cúc (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/inao"
+    },
+    {
+        "chap": "Chương 108: Con cúc (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/oweg"
+    },
+    {
+        "chap": "Chương 109: Mệnh hỏa huyền diệu, chiếu rọi Thiên Cung",
+        "url": "/reader/quang-am-chi-ngoai-convert/ztci"
+    },
+    {
+        "chap": "Chương 110: Thái dương loan giá",
+        "url": "/reader/quang-am-chi-ngoai-convert/dtew"
+    },
+    {
+        "chap": "Chương 111: Nội dung ngọc giản",
+        "url": "/reader/quang-am-chi-ngoai-convert/vwcd"
+    },
+    {
+        "chap": "Chương 112: Diệt tộc chi phạt",
+        "url": "/reader/quang-am-chi-ngoai-convert/nycg"
+    },
+    {
+        "chap": "Chương 113: Câu Anh Đảo",
+        "url": "/reader/quang-am-chi-ngoai-convert/mfta"
+    },
+    {
+        "chap": "Chương 114: Dị tộc chi thổ",
+        "url": "/reader/quang-am-chi-ngoai-convert/aify"
+    },
+    {
+        "chap": "Chương 115: Mục tiêu Trúc Cơ tháp",
+        "url": "/reader/quang-am-chi-ngoai-convert/yvbi"
+    },
+    {
+        "chap": "Chương 116: Đói khát Huyết Luyện Tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/aqud"
+    },
+    {
+        "chap": "Chương 117: Ảnh tử thức tỉnh!",
+        "url": "/reader/quang-am-chi-ngoai-convert/yjci"
+    },
+    {
+        "chap": "Chương 118: Luôn luôn người thành thật",
+        "url": "/reader/quang-am-chi-ngoai-convert/vxhu"
+    },
+    {
+        "chap": "Chương 119: Cấm địa bên trên",
+        "url": "/reader/quang-am-chi-ngoai-convert/knig"
+    },
+    {
+        "chap": "Chương 120: Sau lưng có độc",
+        "url": "/reader/quang-am-chi-ngoai-convert/pveq"
+    },
+    {
+        "chap": "Chương 121: Câu Anh thức tỉnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/dofu"
+    },
+    {
+        "chap": "Chương 122: Như thế nào điên cuồng?",
+        "url": "/reader/quang-am-chi-ngoai-convert/fsrv"
+    },
+    {
+        "chap": "Chương 123: Di Ách chi miếu (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/gvah"
+    },
+    {
+        "chap": "Chương 123: Di Ách chi miếu (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/zmhg"
+    },
+    {
+        "chap": "Chương 124: Hứa Thanh cũng điên cuồng! (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/muok"
+    },
+    {
+        "chap": "Chương 124: Hứa Thanh cũng điên cuồng! (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/tolf"
+    },
+    {
+        "chap": "Chương 125: Đáng giá!",
+        "url": "/reader/quang-am-chi-ngoai-convert/jlyw"
+    },
+    {
+        "chap": "Chương 126: Ba người gặp lại",
+        "url": "/reader/quang-am-chi-ngoai-convert/jlyp"
+    },
+    {
+        "chap": "Chương 127: Sư huynh, ta là Linh Nhi",
+        "url": "/reader/quang-am-chi-ngoai-convert/kbzj"
+    },
+    {
+        "chap": "Chương 128: Nha đầu ngốc",
+        "url": "/reader/quang-am-chi-ngoai-convert/owxn"
+    },
+    {
+        "chap": "Chương 129: Ra ngoài Trúc Cơ!",
+        "url": "/reader/quang-am-chi-ngoai-convert/qviz"
+    },
+    {
+        "chap": "Chương 130: Cầm đèn độc tu",
+        "url": "/reader/quang-am-chi-ngoai-convert/naey"
+    },
+    {
+        "chap": "Chương 131: Quỷ dị thổi đèn",
+        "url": "/reader/quang-am-chi-ngoai-convert/luex"
+    },
+    {
+        "chap": "Chương 132: Giống như tính mạng mang mui xe!",
+        "url": "/reader/quang-am-chi-ngoai-convert/mvnb"
+    },
+    {
+        "chap": "Chương 133: Xa rời phàm trần",
+        "url": "/reader/quang-am-chi-ngoai-convert/vjpm"
+    },
+    {
+        "chap": "Chương 134: Chung khởi sơn loan",
+        "url": "/reader/quang-am-chi-ngoai-convert/wxqd"
+    },
+    {
+        "chap": "Chương 135: Trên núi pháp tắc",
+        "url": "/reader/quang-am-chi-ngoai-convert/gxfb"
+    },
+    {
+        "chap": "Chương 136: Áo bào tím gia thân",
+        "url": "/reader/quang-am-chi-ngoai-convert/imty"
+    },
+    {
+        "chap": "Chương 137: Sát Hỏa Thôn Hồn Kinh",
+        "url": "/reader/quang-am-chi-ngoai-convert/bcst"
+    },
+    {
+        "chap": "Chương 138: Cái này, chính là huyền diệu trạng thái!",
+        "url": "/reader/quang-am-chi-ngoai-convert/cvts"
+    },
+    {
+        "chap": "Chương 139: Nhìn ngươi tạo hóa",
+        "url": "/reader/quang-am-chi-ngoai-convert/roeu"
+    },
+    {
+        "chap": "Chương 140: Câu rồng",
+        "url": "/reader/quang-am-chi-ngoai-convert/muqi"
+    },
+    {
+        "chap": "Chương 141: Hoang đảo khai khiếu",
+        "url": "/reader/quang-am-chi-ngoai-convert/qemx"
+    },
+    {
+        "chap": "Chương 142: Sát cơ hiện lên",
+        "url": "/reader/quang-am-chi-ngoai-convert/lyaq"
+    },
+    {
+        "chap": "Chương 143: Đằng đằng sát khí",
+        "url": "/reader/quang-am-chi-ngoai-convert/woln"
+    },
+    {
+        "chap": "Chương 144: Cực kỳ bi thảm",
+        "url": "/reader/quang-am-chi-ngoai-convert/mjvl"
+    },
+    {
+        "chap": "Chương 145: Một phù hai tính mạng",
+        "url": "/reader/quang-am-chi-ngoai-convert/zebq"
+    },
+    {
+        "chap": "Chương 146: Hứa Thanh hộ đạo người!",
+        "url": "/reader/quang-am-chi-ngoai-convert/jrhb"
+    },
+    {
+        "chap": "Chương 147: Nguyện vọng hộp",
+        "url": "/reader/quang-am-chi-ngoai-convert/nlip"
+    },
+    {
+        "chap": "Chương 148: Ngươi mở ra cái gì?",
+        "url": "/reader/quang-am-chi-ngoai-convert/vhky"
+    },
+    {
+        "chap": "Chương 149: Áo bào xám nhập thế",
+        "url": "/reader/quang-am-chi-ngoai-convert/udcp"
+    },
+    {
+        "chap": "Chương 150: Chiến tranh cơ hội",
+        "url": "/reader/quang-am-chi-ngoai-convert/axrc"
+    },
+    {
+        "chap": "Chương 151: Tuyên chiến",
+        "url": "/reader/quang-am-chi-ngoai-convert/qcjy"
+    },
+    {
+        "chap": "Chương 152: Tham chiến",
+        "url": "/reader/quang-am-chi-ngoai-convert/cpyg"
+    },
+    {
+        "chap": "Chương 153: Có người truyền tống",
+        "url": "/reader/quang-am-chi-ngoai-convert/feld"
+    },
+    {
+        "chap": "Chương 154: Tam âm đoạt thức ăn",
+        "url": "/reader/quang-am-chi-ngoai-convert/fdmh"
+    },
+    {
+        "chap": "Chương 155: Điên cuồng khai khiếu",
+        "url": "/reader/quang-am-chi-ngoai-convert/mhbn"
+    },
+    {
+        "chap": "Chương 156: Là ngươi!",
+        "url": "/reader/quang-am-chi-ngoai-convert/fier"
+    },
+    {
+        "chap": "Chương 157: Hứa Thanh huyền diệu thái!",
+        "url": "/reader/quang-am-chi-ngoai-convert/aboe"
+    },
+    {
+        "chap": "Chương 158: Thái sơn áp noãn",
+        "url": "/reader/quang-am-chi-ngoai-convert/euwn"
+    },
+    {
+        "chap": "Chương 159: Nhảy múa cùng ảnh tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/hqrj"
+    },
+    {
+        "chap": "Chương 160: Câu ra cái sát tinh",
+        "url": "/reader/quang-am-chi-ngoai-convert/ndje"
+    },
+    {
+        "chap": "Chương 161: Vụ hoán tinh di",
+        "url": "/reader/quang-am-chi-ngoai-convert/oayw"
+    },
+    {
+        "chap": "Chương 162: Hắc tuyết vì phát",
+        "url": "/reader/quang-am-chi-ngoai-convert/tajo"
+    },
+    {
+        "chap": "Chương 163: Có cổ quái!",
+        "url": "/reader/quang-am-chi-ngoai-convert/rdsa"
+    },
+    {
+        "chap": "Chương 164: Có thù tất báo",
+        "url": "/reader/quang-am-chi-ngoai-convert/hpxe"
+    },
+    {
+        "chap": "Chương 165: Thần bí triệu kiến",
+        "url": "/reader/quang-am-chi-ngoai-convert/xjfs"
+    },
+    {
+        "chap": "Chương 166: Thất phong là nhà nàng.",
+        "url": "/reader/quang-am-chi-ngoai-convert/lceb"
+    },
+    {
+        "chap": "Chương 167: Bố cục mở ra",
+        "url": "/reader/quang-am-chi-ngoai-convert/dvax"
+    },
+    {
+        "chap": "Chương 168: Lão tổ lo lắng!!",
+        "url": "/reader/quang-am-chi-ngoai-convert/tscb"
+    },
+    {
+        "chap": "Chương 169: Chiến tranh địa vị!",
+        "url": "/reader/quang-am-chi-ngoai-convert/vaji"
+    },
+    {
+        "chap": "Chương 170: Lôi Linh thân thể",
+        "url": "/reader/quang-am-chi-ngoai-convert/anjq"
+    },
+    {
+        "chap": "Chương 171: Trấn áp! Trấn áp! ! Trấn áp! ! !",
+        "url": "/reader/quang-am-chi-ngoai-convert/nrac"
+    },
+    {
+        "chap": "Chương 172: Chung cực **",
+        "url": "/reader/quang-am-chi-ngoai-convert/libz"
+    },
+    {
+        "chap": "Chương 173: Hoàng cấp cơ duyên",
+        "url": "/reader/quang-am-chi-ngoai-convert/iwah"
+    },
+    {
+        "chap": "Chương 174: Động đến liền phát!",
+        "url": "/reader/quang-am-chi-ngoai-convert/rpeq"
+    },
+    {
+        "chap": "Chương 175: Thái dương tọa tháp chi địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/xzin"
+    },
+    {
+        "chap": "Chương 176: Kim Ô luyện vạn linh",
+        "url": "/reader/quang-am-chi-ngoai-convert/zwic"
+    },
+    {
+        "chap": "Chương 177: Như ma như yêu",
+        "url": "/reader/quang-am-chi-ngoai-convert/rcax"
+    },
+    {
+        "chap": "Chương 178: Đãng hải phong long!",
+        "url": "/reader/quang-am-chi-ngoai-convert/xtya"
+    },
+    {
+        "chap": "Chương 179: Hứa Thanh ca ca",
+        "url": "/reader/quang-am-chi-ngoai-convert/xzcj"
+    },
+    {
+        "chap": "Chương 180: Kim Ô giáng trần",
+        "url": "/reader/quang-am-chi-ngoai-convert/bwjy"
+    },
+    {
+        "chap": "Chương 181: Đâu ra đó",
+        "url": "/reader/quang-am-chi-ngoai-convert/oral"
+    },
+    {
+        "chap": "Chương 182: Điên cuồng kế hoạch",
+        "url": "/reader/quang-am-chi-ngoai-convert/dqzl"
+    },
+    {
+        "chap": "Chương 183: Thiên kiều bá mị",
+        "url": "/reader/quang-am-chi-ngoai-convert/nlex"
+    },
+    {
+        "chap": "Chương 184: Hải Thi dị văn (9000)",
+        "url": "/reader/quang-am-chi-ngoai-convert/bcpa"
+    },
+    {
+        "chap": "Chương 185: Thân thiết",
+        "url": "/reader/quang-am-chi-ngoai-convert/ukwc"
+    },
+    {
+        "chap": "Chương 186: Đã xảy ra chuyện. . .",
+        "url": "/reader/quang-am-chi-ngoai-convert/ksta"
+    },
+    {
+        "chap": "Chương 187: Đệ nhị đoàn mệnh hỏa, khai!",
+        "url": "/reader/quang-am-chi-ngoai-convert/jvsq"
+    },
+    {
+        "chap": "Chương 188: Nhị hỏa thần uy",
+        "url": "/reader/quang-am-chi-ngoai-convert/rbnc"
+    },
+    {
+        "chap": "Chương 189: Hải Thi đường (vì Yên Hôi Tổng Minh thêm càng! )",
+        "url": "/reader/quang-am-chi-ngoai-convert/bxfl"
+    },
+    {
+        "chap": "Chương 190: Chạy là thượng sách",
+        "url": "/reader/quang-am-chi-ngoai-convert/tqaz"
+    },
+    {
+        "chap": "Chương 191: Toàn bộ Cấm hải truy nã!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ldqe"
+    },
+    {
+        "chap": "Chương 192: Thanh danh lan truyền lớn",
+        "url": "/reader/quang-am-chi-ngoai-convert/qoej"
+    },
+    {
+        "chap": "Chương 193: Đều là đội trưởng làm!",
+        "url": "/reader/quang-am-chi-ngoai-convert/mlkx"
+    },
+    {
+        "chap": "Chương 194: Quay về một nửa",
+        "url": "/reader/quang-am-chi-ngoai-convert/syqm"
+    },
+    {
+        "chap": "Chương 195: Kẻ yếu bi ai",
+        "url": "/reader/quang-am-chi-ngoai-convert/njmi"
+    },
+    {
+        "chap": "Chương 196: Nhị Ngưu bí mật",
+        "url": "/reader/quang-am-chi-ngoai-convert/bnxe"
+    },
+    {
+        "chap": "Chương 197: Ảnh đế",
+        "url": "/reader/quang-am-chi-ngoai-convert/htce"
+    },
+    {
+        "chap": "Chương 198: Chớ giành với ta nồi!",
+        "url": "/reader/quang-am-chi-ngoai-convert/undi"
+    },
+    {
+        "chap": "Chương 199: Nhị Phượng hí thanh",
+        "url": "/reader/quang-am-chi-ngoai-convert/qhpf"
+    },
+    {
+        "chap": "Chương 200:. Lai giả bất thiện (người tới không có ý tốt)",
+        "url": "/reader/quang-am-chi-ngoai-convert/evju"
+    },
+    {
+        "chap": "Chương 201: Bộ Hung Ty phụ trách!",
+        "url": "/reader/quang-am-chi-ngoai-convert/xilb"
+    },
+    {
+        "chap": "Chương 202: Như thế nào danh sách!",
+        "url": "/reader/quang-am-chi-ngoai-convert/sbze"
+    },
+    {
+        "chap": "Chương 203: Lại lần nữa tấn chức (vì trạch thái đại lão thêm càng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/pawv"
+    },
+    {
+        "chap": "Cảm nghĩ cùng thành tích báo cáo",
+        "url": "/reader/quang-am-chi-ngoai-convert/nowi"
+    },
+    {
+        "chap": "Chương 204: Sát dê dọa nữu",
+        "url": "/reader/quang-am-chi-ngoai-convert/zqno"
+    },
+    {
+        "chap": "Chương 205:. Ân sâu vĩnh tồn hồn trong mộng",
+        "url": "/reader/quang-am-chi-ngoai-convert/bjvp"
+    },
+    {
+        "chap": "Chương 206: Truy hung Tử Thổ",
+        "url": "/reader/quang-am-chi-ngoai-convert/nkqh"
+    },
+    {
+        "chap": "Chương 207: Trước mộ phần rượu đục tụng kinh thư",
+        "url": "/reader/quang-am-chi-ngoai-convert/udfl"
+    },
+    {
+        "chap": "Chương 208: Lấy quỷ dị đối quỷ dị",
+        "url": "/reader/quang-am-chi-ngoai-convert/hayk"
+    },
+    {
+        "chap": "Chương 209: Vô sở che giấu",
+        "url": "/reader/quang-am-chi-ngoai-convert/gqnm"
+    },
+    {
+        "chap": "Chương 210: Chim vào lồng",
+        "url": "/reader/quang-am-chi-ngoai-convert/yifm"
+    },
+    {
+        "chap": "Chương 211: Cổ chưởng(Bàn Tay) chi gian",
+        "url": "/reader/quang-am-chi-ngoai-convert/atzg"
+    },
+    {
+        "chap": "Chương 212: Nguyên lai là ngươi!",
+        "url": "/reader/quang-am-chi-ngoai-convert/rmwp"
+    },
+    {
+        "chap": "Chương 213: Huyết nhiễm bố y thường (Huyết nhuộm xiêm y)",
+        "url": "/reader/quang-am-chi-ngoai-convert/dohn"
+    },
+    {
+        "chap": "Chương 214: Tru diệt pháp chỉ",
+        "url": "/reader/quang-am-chi-ngoai-convert/sejk"
+    },
+    {
+        "chap": "Chương 215: Nộ hỏa phần hải (Lửa giận đốt biển)",
+        "url": "/reader/quang-am-chi-ngoai-convert/fgnw"
+    },
+    {
+        "chap": "Chương 216: Lấy Huyết làm đường",
+        "url": "/reader/quang-am-chi-ngoai-convert/knum"
+    },
+    {
+        "chap": "Chương 217: Băng Hỏa Song sát",
+        "url": "/reader/quang-am-chi-ngoai-convert/owbe"
+    },
+    {
+        "chap": "Chương 218: Chúc Chiếu bạch lệ",
+        "url": "/reader/quang-am-chi-ngoai-convert/npyu"
+    },
+    {
+        "chap": "Chương 219: Tổ tự trấn Nguyên Anh (6200 đại chương)(Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/krqx"
+    },
+    {
+        "chap": "Chương 219: Tổ tự trấn Nguyên Anh (6200 đại chương)(Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/dija"
+    },
+    {
+        "chap": "Chương 220:. Bạch Lệ hồn đan",
+        "url": "/reader/quang-am-chi-ngoai-convert/nqed"
+    },
+    {
+        "chap": "Chương 221: Thất Huyết Đồng bí ẩn",
+        "url": "/reader/quang-am-chi-ngoai-convert/dxnr"
+    },
+    {
+        "chap": "Chương 222: Thái Thương đạo miếu",
+        "url": "/reader/quang-am-chi-ngoai-convert/hrzc"
+    },
+    {
+        "chap": "Chương 223: Âm hồn bất tán",
+        "url": "/reader/quang-am-chi-ngoai-convert/gker"
+    },
+    {
+        "chap": "Chương 224: Âm nhân lợi khí",
+        "url": "/reader/quang-am-chi-ngoai-convert/lbsg"
+    },
+    {
+        "chap": "Chương 225: Phong bạo phủ xuống",
+        "url": "/reader/quang-am-chi-ngoai-convert/ojhc"
+    },
+    {
+        "chap": "Chương 226: Huyền U Cổ Đạo",
+        "url": "/reader/quang-am-chi-ngoai-convert/fdsa"
+    },
+    {
+        "chap": "Chương 227: Thánh quân tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/iewu"
+    },
+    {
+        "chap": "Chương 228: Độc hám chúng sinh, cấm diệt muôn đời",
+        "url": "/reader/quang-am-chi-ngoai-convert/tjpc"
+    },
+    {
+        "chap": "Chương 229: Khí trương ương ngạnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/nrqc"
+    },
+    {
+        "chap": "Chương 230: Trấn áp Ti Mã Lăng",
+        "url": "/reader/quang-am-chi-ngoai-convert/wfdh"
+    },
+    {
+        "chap": "Chương 231: Hứa Thanh danh tiếng",
+        "url": "/reader/quang-am-chi-ngoai-convert/upxw"
+    },
+    {
+        "chap": "Chương 232: Vọng Cổ tài thần",
+        "url": "/reader/quang-am-chi-ngoai-convert/rgoz"
+    },
+    {
+        "chap": "Chương 233: Mã vô dạ thảo bất phì (Ngựa không lén ăn cỏ ban đêm thì không mập)",
+        "url": "/reader/quang-am-chi-ngoai-convert/mxhb"
+    },
+    {
+        "chap": "Chương 234: Không coi ai ra gì",
+        "url": "/reader/quang-am-chi-ngoai-convert/lknv"
+    },
+    {
+        "chap": "Chương 235: Minh tướng kinh người",
+        "url": "/reader/quang-am-chi-ngoai-convert/mryu"
+    },
+    {
+        "chap": "Chương 236: Hữu ái Đệ Thất phong (Có cảm tình Đệ Thất Phong)",
+        "url": "/reader/quang-am-chi-ngoai-convert/vodr"
+    },
+    {
+        "chap": "Chương 237: Mục trung hữu nhân (Trong mắt có người)",
+        "url": "/reader/quang-am-chi-ngoai-convert/xnya"
+    },
+    {
+        "chap": "Chương 238: Mệnh hỏa chiếu rọi Thiên Cung!",
+        "url": "/reader/quang-am-chi-ngoai-convert/cofv"
+    },
+    {
+        "chap": "Chương 239: Liệp Dị người tới",
+        "url": "/reader/quang-am-chi-ngoai-convert/gebm"
+    },
+    {
+        "chap": "Chương 240: Phong U chi huyết",
+        "url": "/reader/quang-am-chi-ngoai-convert/ndoy"
+    },
+    {
+        "chap": "Chương 241: Thất phong chi tàng",
+        "url": "/reader/quang-am-chi-ngoai-convert/bjam"
+    },
+    {
+        "chap": "Chương 242: Mây đen che nguyệt đêm giết người",
+        "url": "/reader/quang-am-chi-ngoai-convert/royi"
+    },
+    {
+        "chap": "Chương 243: Vung đao chém dạ quỷ",
+        "url": "/reader/quang-am-chi-ngoai-convert/dcza"
+    },
+    {
+        "chap": "Chương 244: Đối nhân xử thế",
+        "url": "/reader/quang-am-chi-ngoai-convert/xyms"
+    },
+    {
+        "chap": "Chương 245: Vọng Cổ Bàn cờ",
+        "url": "/reader/quang-am-chi-ngoai-convert/taxj"
+    },
+    {
+        "chap": "Chương 246: Hoàng Cấm quỷ phường (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/xawg"
+    },
+    {
+        "chap": "Chương 246: Hoàng Cấm quỷ phường (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/ezqr"
+    },
+    {
+        "chap": "Chương 247: Ác linh quấn thân",
+        "url": "/reader/quang-am-chi-ngoai-convert/mapr"
+    },
+    {
+        "chap": "Chương 248: Sói như quay đầu lại, tất có nguyên do",
+        "url": "/reader/quang-am-chi-ngoai-convert/khci"
+    },
+    {
+        "chap": "Chương 249: Quấy rầy",
+        "url": "/reader/quang-am-chi-ngoai-convert/mzgl"
+    },
+    {
+        "chap": "Chương 250:. Nghênh Hoàng kịch biến!",
+        "url": "/reader/quang-am-chi-ngoai-convert/eytx"
+    },
+    {
+        "chap": "Chương 251: Ta xuống tay trước",
+        "url": "/reader/quang-am-chi-ngoai-convert/iubw"
+    },
+    {
+        "chap": "Chương 252: Dao sắc va chạm",
+        "url": "/reader/quang-am-chi-ngoai-convert/kixq"
+    },
+    {
+        "chap": "Chương 253: Bốn hỏa nhược điểm",
+        "url": "/reader/quang-am-chi-ngoai-convert/mtax"
+    },
+    {
+        "chap": "Chương 254: Như thần tử chiến",
+        "url": "/reader/quang-am-chi-ngoai-convert/aduy"
+    },
+    {
+        "chap": "Chương 255: Nhật nguyệt tranh quang",
+        "url": "/reader/quang-am-chi-ngoai-convert/pfsd"
+    },
+    {
+        "chap": "Chương 256: Trở giáo một kích",
+        "url": "/reader/quang-am-chi-ngoai-convert/nscd"
+    },
+    {
+        "chap": "Chương 257: Cùng hung cực ác",
+        "url": "/reader/quang-am-chi-ngoai-convert/kovw"
+    },
+    {
+        "chap": "Chương 258: Pháp Hải trấn tà bút",
+        "url": "/reader/quang-am-chi-ngoai-convert/mbpz"
+    },
+    {
+        "chap": "Chương 259: Khô thủ dò thức hải (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/edyo"
+    },
+    {
+        "chap": "Chương 259: Khô thủ dò thức hải (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/uxig"
+    },
+    {
+        "chap": "Chương 260:. Đáng giá!",
+        "url": "/reader/quang-am-chi-ngoai-convert/lwpj"
+    },
+    {
+        "chap": "Chương 261: Hắn đã đến",
+        "url": "/reader/quang-am-chi-ngoai-convert/enhl"
+    },
+    {
+        "chap": "Chương 262: Tử Thanh chuyện cũ",
+        "url": "/reader/quang-am-chi-ngoai-convert/ibgf"
+    },
+    {
+        "chap": "Chương 263: Bái sư lễ mừng",
+        "url": "/reader/quang-am-chi-ngoai-convert/hzvl"
+    },
+    {
+        "chap": "Chương 264: Ngươi không rời, ta không bỏ",
+        "url": "/reader/quang-am-chi-ngoai-convert/wbel"
+    },
+    {
+        "chap": "Chương 265: Cấm kỵ ra đời!",
+        "url": "/reader/quang-am-chi-ngoai-convert/bpmj"
+    },
+    {
+        "chap": "Chương 266: Chân tướng rõ ràng",
+        "url": "/reader/quang-am-chi-ngoai-convert/hdqn"
+    },
+    {
+        "chap": "Chương 267: Tám tông liên minh",
+        "url": "/reader/quang-am-chi-ngoai-convert/ztpj"
+    },
+    {
+        "chap": "Chương 268: Muốn ăn một mình?",
+        "url": "/reader/quang-am-chi-ngoai-convert/vnul"
+    },
+    {
+        "chap": "Chương 269: Giống như luân hồi",
+        "url": "/reader/quang-am-chi-ngoai-convert/ihws"
+    },
+    {
+        "chap": "Chương 270:. Dị vực Phong Tình",
+        "url": "/reader/quang-am-chi-ngoai-convert/pnrk"
+    },
+    {
+        "chap": "Chương 271: Cao thấp đều âm",
+        "url": "/reader/quang-am-chi-ngoai-convert/sdgt"
+    },
+    {
+        "chap": "Chương 272: Trấn áp Ti Mã Như!",
+        "url": "/reader/quang-am-chi-ngoai-convert/xlte"
+    },
+    {
+        "chap": "Chương 273: Không có thiện thổ",
+        "url": "/reader/quang-am-chi-ngoai-convert/kujz"
+    },
+    {
+        "chap": "Chương 274: Nhân gian hung địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/pnlr"
+    },
+    {
+        "chap": "Chương 275: Thất gia truyền pháp",
+        "url": "/reader/quang-am-chi-ngoai-convert/prwe"
+    },
+    {
+        "chap": "Chương 276: Chấp Kiếm Giả",
+        "url": "/reader/quang-am-chi-ngoai-convert/tlpn"
+    },
+    {
+        "chap": "Chương 277: Thanh niên sau mặt nạ",
+        "url": "/reader/quang-am-chi-ngoai-convert/tryj"
+    },
+    {
+        "chap": "Chương 278: Tử Huyền Thượng Tiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/mqya"
+    },
+    {
+        "chap": "Chương 279: Phong tình vạn chủng",
+        "url": "/reader/quang-am-chi-ngoai-convert/dlxq"
+    },
+    {
+        "chap": "Chương 280: Thế gian thê thảm",
+        "url": "/reader/quang-am-chi-ngoai-convert/xwmb"
+    },
+    {
+        "chap": "Chương 281: Chuyện xuất hiện dị thường tất có yêu",
+        "url": "/reader/quang-am-chi-ngoai-convert/jdms"
+    },
+    {
+        "chap": "Chương 282: Chủ... Ta... . . . . Nghe lời",
+        "url": "/reader/quang-am-chi-ngoai-convert/rziw"
+    },
+    {
+        "chap": "Chương 283: Vì sao tìm đường chết",
+        "url": "/reader/quang-am-chi-ngoai-convert/ufae"
+    },
+    {
+        "chap": "Chương 284: Huyền U đại mộ",
+        "url": "/reader/quang-am-chi-ngoai-convert/vesq"
+    },
+    {
+        "chap": "Chương 285: Lại một cái Huyền U Tông",
+        "url": "/reader/quang-am-chi-ngoai-convert/ciem"
+    },
+    {
+        "chap": "Chương 286: Thiên đinh trấn yêu xà",
+        "url": "/reader/quang-am-chi-ngoai-convert/kyzm"
+    },
+    {
+        "chap": "Chương 287: Cuối cùng Lý Tử Mai",
+        "url": "/reader/quang-am-chi-ngoai-convert/jmns"
+    },
+    {
+        "chap": "Chương 288: Dụng tâm lương khổ",
+        "url": "/reader/quang-am-chi-ngoai-convert/yfvc"
+    },
+    {
+        "chap": "Chương 289: Kiếm vu cao quang",
+        "url": "/reader/quang-am-chi-ngoai-convert/cxol"
+    },
+    {
+        "chap": "Chương 290: Nhiều năm không thấy tiểu yêu xà, có từng hối hận cắn qua ta!",
+        "url": "/reader/quang-am-chi-ngoai-convert/tlgm"
+    },
+    {
+        "chap": "Chương 291: Ai dám tranh phong",
+        "url": "/reader/quang-am-chi-ngoai-convert/mqsd"
+    },
+    {
+        "chap": "Chương 292: Xưa đâu bằng nay",
+        "url": "/reader/quang-am-chi-ngoai-convert/rkjo"
+    },
+    {
+        "chap": "Chương 293: Quang!",
+        "url": "/reader/quang-am-chi-ngoai-convert/dbnw"
+    },
+    {
+        "chap": "Chương 294: Kim Ô thôn Diệt Mông",
+        "url": "/reader/quang-am-chi-ngoai-convert/czxh"
+    },
+    {
+        "chap": "Chương 295: Tiểu bằng hữu, tới gặp ta",
+        "url": "/reader/quang-am-chi-ngoai-convert/qphs"
+    },
+    {
+        "chap": "Chương 296: Một tấm vải mỏng ngăn cách",
+        "url": "/reader/quang-am-chi-ngoai-convert/xtdm"
+    },
+    {
+        "chap": "Chương 297: Đón gió chờ nguyệt",
+        "url": "/reader/quang-am-chi-ngoai-convert/phns"
+    },
+    {
+        "chap": "Chương 298: Một khúc hồng trần",
+        "url": "/reader/quang-am-chi-ngoai-convert/iaom"
+    },
+    {
+        "chap": "Chương 299: Khúc tên Ly Thương",
+        "url": "/reader/quang-am-chi-ngoai-convert/twaz"
+    },
+    {
+        "chap": "Chương 300: Thái Sơ Ly U trụ",
+        "url": "/reader/quang-am-chi-ngoai-convert/mfwb"
+    },
+    {
+        "chap": "Chương 301: Quỷ dị vật",
+        "url": "/reader/quang-am-chi-ngoai-convert/neiv"
+    },
+    {
+        "chap": "Chương 302: Lão tổ lập công",
+        "url": "/reader/quang-am-chi-ngoai-convert/qhec"
+    },
+    {
+        "chap": "Chương 303: Sư tôn cứu ta",
+        "url": "/reader/quang-am-chi-ngoai-convert/vmno"
+    },
+    {
+        "chap": "Chương 304: Dùng để học tập tốt công pháp",
+        "url": "/reader/quang-am-chi-ngoai-convert/nqgx"
+    },
+    {
+        "chap": "Chương 305: Quỷ U đoạt đạo",
+        "url": "/reader/quang-am-chi-ngoai-convert/hkgp"
+    },
+    {
+        "chap": "Chương 306: Linh Tàng, Quy Hư, Uẩn Thần",
+        "url": "/reader/quang-am-chi-ngoai-convert/hvcf"
+    },
+    {
+        "chap": "Chương 307: Vô diện quỷ sơn",
+        "url": "/reader/quang-am-chi-ngoai-convert/ildz"
+    },
+    {
+        "chap": "Chương 308: Giống như luân hồi",
+        "url": "/reader/quang-am-chi-ngoai-convert/rwsz"
+    },
+    {
+        "chap": "Chương 309: Gió giật trước lúc bão về",
+        "url": "/reader/quang-am-chi-ngoai-convert/oiak"
+    },
+    {
+        "chap": "Chương 310: Huyết sắc biểu diễn: Mở màn",
+        "url": "/reader/quang-am-chi-ngoai-convert/kpcf"
+    },
+    {
+        "chap": "Chương 311: Nghệ sĩ lên sân khấu",
+        "url": "/reader/quang-am-chi-ngoai-convert/exci"
+    },
+    {
+        "chap": "Chương 312: Kinh biến! !",
+        "url": "/reader/quang-am-chi-ngoai-convert/wfam"
+    },
+    {
+        "chap": "Chương 313: Một đạo ánh sáng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/schr"
+    },
+    {
+        "chap": "Chương 314: Dưới ánh trăng tương ngộ",
+        "url": "/reader/quang-am-chi-ngoai-convert/dtrb"
+    },
+    {
+        "chap": "Chương 315: Em trai, đã lâu không gặp",
+        "url": "/reader/quang-am-chi-ngoai-convert/cwrx"
+    },
+    {
+        "chap": "Chương 316: Hứa Thanh chuyện cũ",
+        "url": "/reader/quang-am-chi-ngoai-convert/azhx"
+    },
+    {
+        "chap": "Chương 317: Cấm Kỵ chi địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/aojs"
+    },
+    {
+        "chap": "Chương 318: Kẻ sống thay đổi",
+        "url": "/reader/quang-am-chi-ngoai-convert/awrl"
+    },
+    {
+        "chap": "Chương 319: Thiên Cung Kim Đan",
+        "url": "/reader/quang-am-chi-ngoai-convert/nwlu"
+    },
+    {
+        "chap": "Chương 320: Tiến bộ vượt bậc",
+        "url": "/reader/quang-am-chi-ngoai-convert/pcrv"
+    },
+    {
+        "chap": "Chương 321: Ngôn Ngôn lễ vật",
+        "url": "/reader/quang-am-chi-ngoai-convert/suzk"
+    },
+    {
+        "chap": "Chương 322: Lạc Nguyệt hạp cốc",
+        "url": "/reader/quang-am-chi-ngoai-convert/fmiu"
+    },
+    {
+        "chap": "Chương 323: Dưới Cửu Tuyền",
+        "url": "/reader/quang-am-chi-ngoai-convert/loyw"
+    },
+    {
+        "chap": "Chương 324: Thánh Quân Tử, chết!",
+        "url": "/reader/quang-am-chi-ngoai-convert/pnyj"
+    },
+    {
+        "chap": "Chương 325: Thần Linh thí thể",
+        "url": "/reader/quang-am-chi-ngoai-convert/imdh"
+    },
+    {
+        "chap": "Chương 326: Năng lực của Thần",
+        "url": "/reader/quang-am-chi-ngoai-convert/dxrj"
+    },
+    {
+        "chap": "Chương 327: Đường dài đằng đẵng",
+        "url": "/reader/quang-am-chi-ngoai-convert/okte"
+    },
+    {
+        "chap": "Chương 328 Của ta bảo y",
+        "url": "/reader/quang-am-chi-ngoai-convert/alcb"
+    },
+    {
+        "chap": "Chương 329: Một thân ba hồn bảy phách",
+        "url": "/reader/quang-am-chi-ngoai-convert/ksda"
+    },
+    {
+        "chap": "Chương 330: Ánh chiều tà như trước",
+        "url": "/reader/quang-am-chi-ngoai-convert/vthg"
+    },
+    {
+        "chap": "Chương 331: Nhổ răng cọp",
+        "url": "/reader/quang-am-chi-ngoai-convert/rkol"
+    },
+    {
+        "chap": "Chương 332: Không thể mạn tàng hối trộm",
+        "url": "/reader/quang-am-chi-ngoai-convert/kzlh"
+    },
+    {
+        "chap": "Chương 333: Trâu nhai Mẫu Đơn",
+        "url": "/reader/quang-am-chi-ngoai-convert/xymn"
+    },
+    {
+        "chap": "Chương 334: Dị hương xông lên mũi",
+        "url": "/reader/quang-am-chi-ngoai-convert/mzre"
+    },
+    {
+        "chap": "Chương 335: Nữ tử Ly Đồ Giáo",
+        "url": "/reader/quang-am-chi-ngoai-convert/mcxu"
+    },
+    {
+        "chap": "Chương 336: Lão đệ chạy mau",
+        "url": "/reader/quang-am-chi-ngoai-convert/tlxf"
+    },
+    {
+        "chap": "Chương 337: U Tinh phát cuồng",
+        "url": "/reader/quang-am-chi-ngoai-convert/nijb"
+    },
+    {
+        "chap": "Chương 338: Ở kiếp này, chúng ta đồng hành",
+        "url": "/reader/quang-am-chi-ngoai-convert/noch"
+    },
+    {
+        "chap": "Chương 339: Lột xác bắt đầu",
+        "url": "/reader/quang-am-chi-ngoai-convert/jmpl"
+    },
+    {
+        "chap": "Chương 340: Trên cổ tay kim quang!",
+        "url": "/reader/quang-am-chi-ngoai-convert/hvga"
+    },
+    {
+        "chap": "Chương 341: Có thể mong đợi",
+        "url": "/reader/quang-am-chi-ngoai-convert/ojmp"
+    },
+    {
+        "chap": "Chương 342: Đi hướng Thần Linh chìa khoá!",
+        "url": "/reader/quang-am-chi-ngoai-convert/hfuv"
+    },
+    {
+        "chap": "Chương 343: Lão tổ sốt ruột",
+        "url": "/reader/quang-am-chi-ngoai-convert/dwtc"
+    },
+    {
+        "chap": "Chương 344: Dung Ảnh bí thuật",
+        "url": "/reader/quang-am-chi-ngoai-convert/zuvl"
+    },
+    {
+        "chap": "Chương 345: Thiên Kiếp dẫn ngưu",
+        "url": "/reader/quang-am-chi-ngoai-convert/nykf"
+    },
+    {
+        "chap": "Chương 346: Ngươi cũng tới?",
+        "url": "/reader/quang-am-chi-ngoai-convert/atpf"
+    },
+    {
+        "chap": "Chương 347: Nhân sinh khó khăn",
+        "url": "/reader/quang-am-chi-ngoai-convert/yuwz"
+    },
+    {
+        "chap": "Chương 348: Thái Ti mệnh đăng",
+        "url": "/reader/quang-am-chi-ngoai-convert/ecsr"
+    },
+    {
+        "chap": "Chương 349: Thái Sơ Ly U thành",
+        "url": "/reader/quang-am-chi-ngoai-convert/ufth"
+    },
+    {
+        "chap": "Chương 350: Tử Huyền gửi thư",
+        "url": "/reader/quang-am-chi-ngoai-convert/auyf"
+    },
+    {
+        "chap": "Chương 351: Thoáng như cố nhân về",
+        "url": "/reader/quang-am-chi-ngoai-convert/fgap"
+    },
+    {
+        "chap": "Chương 352: Sự tình ra khác thường",
+        "url": "/reader/quang-am-chi-ngoai-convert/qsmx"
+    },
+    {
+        "chap": "Chương 353: Chủng niệm",
+        "url": "/reader/quang-am-chi-ngoai-convert/hdxk"
+    },
+    {
+        "chap": "Chương 354: Một trận chiến lập uy",
+        "url": "/reader/quang-am-chi-ngoai-convert/squp"
+    },
+    {
+        "chap": "Chương 355: Quỷ Đế tuyệt oán",
+        "url": "/reader/quang-am-chi-ngoai-convert/suke"
+    },
+    {
+        "chap": "Chương 356: Có một không hai",
+        "url": "/reader/quang-am-chi-ngoai-convert/jlbm"
+    },
+    {
+        "chap": "Chương 357: Quần kiêu tranh chấp",
+        "url": "/reader/quang-am-chi-ngoai-convert/blwq"
+    },
+    {
+        "chap": "Chương 358: Trọng thưởng bên dưới",
+        "url": "/reader/quang-am-chi-ngoai-convert/ckzt"
+    },
+    {
+        "chap": "Chương 359: Thanh Ngưu tranh phong",
+        "url": "/reader/quang-am-chi-ngoai-convert/qagl"
+    },
+    {
+        "chap": "Chương 360: Ngồi ở trên mặt trăng thân ảnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/kirp"
+    },
+    {
+        "chap": "Chương 361: Nguyệt trung hữu Thần!",
+        "url": "/reader/quang-am-chi-ngoai-convert/wnly"
+    },
+    {
+        "chap": "Chương 362: Là ai? Là ngươi!",
+        "url": "/reader/quang-am-chi-ngoai-convert/zhyt"
+    },
+    {
+        "chap": "Chương 363: Cảm ngộ chân tướng",
+        "url": "/reader/quang-am-chi-ngoai-convert/lpoq"
+    },
+    {
+        "chap": "Chương 364: Quỷ động",
+        "url": "/reader/quang-am-chi-ngoai-convert/gfie"
+    },
+    {
+        "chap": "Chương 365: Dị quỷ",
+        "url": "/reader/quang-am-chi-ngoai-convert/dwkb"
+    },
+    {
+        "chap": "Chương 366: Tiền giấy bên trên mặt quỷ.",
+        "url": "/reader/quang-am-chi-ngoai-convert/goxj"
+    },
+    {
+        "chap": "Chương 367: Sài Hồ chi tâm",
+        "url": "/reader/quang-am-chi-ngoai-convert/ubkt"
+    },
+    {
+        "chap": "Chương 368: Kim thế bồi hồi, dư sinh trường mai",
+        "url": "/reader/quang-am-chi-ngoai-convert/iyaj"
+    },
+    {
+        "chap": "Chương 369: Đệ Tam tôn Thần Linh!",
+        "url": "/reader/quang-am-chi-ngoai-convert/vejw"
+    },
+    {
+        "chap": "Chương 370: Chấp Kiếm lập mệnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/cvwz"
+    },
+    {
+        "chap": "Chương 371: Khai Nghênh Hoàng Châu tiên hà",
+        "url": "/reader/quang-am-chi-ngoai-convert/jgpz"
+    },
+    {
+        "chap": "Chương 372: Trêu chọc Hứa Thanh hậu quả",
+        "url": "/reader/quang-am-chi-ngoai-convert/aybl"
+    },
+    {
+        "chap": "Chương 373: Thần Linh chi thân",
+        "url": "/reader/quang-am-chi-ngoai-convert/hjsg"
+    },
+    {
+        "chap": "Chương 374: Này tâm tư không thay đổi",
+        "url": "/reader/quang-am-chi-ngoai-convert/kltp"
+    },
+    {
+        "chap": "Chương 375: Đế kiếm",
+        "url": "/reader/quang-am-chi-ngoai-convert/exrz"
+    },
+    {
+        "chap": "Chương 376: Nhị Ngưu đáp án",
+        "url": "/reader/quang-am-chi-ngoai-convert/rohp"
+    },
+    {
+        "chap": "Chương 377: Thăm tù U Tinh",
+        "url": "/reader/quang-am-chi-ngoai-convert/nqlm"
+    },
+    {
+        "chap": "Chương 378: Thiên Mệnh giảm nửa",
+        "url": "/reader/quang-am-chi-ngoai-convert/yckz"
+    },
+    {
+        "chap": "Chương 379: Chạy trời không khỏi nắng",
+        "url": "/reader/quang-am-chi-ngoai-convert/muxh"
+    },
+    {
+        "chap": "Chương 380: Hứa Thanh đồng thoại",
+        "url": "/reader/quang-am-chi-ngoai-convert/hvtn"
+    },
+    {
+        "chap": "Chương 381: Kẻ sống như vậy",
+        "url": "/reader/quang-am-chi-ngoai-convert/xhij"
+    },
+    {
+        "chap": "Chương 382: Linh Nhi ra biển",
+        "url": "/reader/quang-am-chi-ngoai-convert/btne"
+    },
+    {
+        "chap": "Chương 383: Chưởng bảo người",
+        "url": "/reader/quang-am-chi-ngoai-convert/wbvn"
+    },
+    {
+        "chap": "Chương 384: Không thể nhìn thẳng",
+        "url": "/reader/quang-am-chi-ngoai-convert/pscx"
+    },
+    {
+        "chap": "Chương 385: Thi Hoàng chết",
+        "url": "/reader/quang-am-chi-ngoai-convert/nkwl"
+    },
+    {
+        "chap": "Chương 386: Chim ưng con giương cánh",
+        "url": "/reader/quang-am-chi-ngoai-convert/ljym"
+    },
+    {
+        "chap": "Chương 387: Năm ngón tay cô nương",
+        "url": "/reader/quang-am-chi-ngoai-convert/dztp"
+    },
+    {
+        "chap": "Chương 388: U Minh chi cảng",
+        "url": "/reader/quang-am-chi-ngoai-convert/umbg"
+    },
+    {
+        "chap": "Chương 389: U Minh mượn đường",
+        "url": "/reader/quang-am-chi-ngoai-convert/foas"
+    },
+    {
+        "chap": "Chương 390: Mộ Quang Tộc nhãn",
+        "url": "/reader/quang-am-chi-ngoai-convert/lsnr"
+    },
+    {
+        "chap": "Chương 391: Đại điểu thanh cầm",
+        "url": "/reader/quang-am-chi-ngoai-convert/zscp"
+    },
+    {
+        "chap": "Chương 392: Binh sĩ",
+        "url": "/reader/quang-am-chi-ngoai-convert/blsf"
+    },
+    {
+        "chap": "Chương 393: Múa rìu qua mắt thợ",
+        "url": "/reader/quang-am-chi-ngoai-convert/fevl"
+    },
+    {
+        "chap": "Chương 394: Hứa Thanh phản kích",
+        "url": "/reader/quang-am-chi-ngoai-convert/bjog"
+    },
+    {
+        "chap": "Chương 395: Chấp Kiếm cung bảy chữ",
+        "url": "/reader/quang-am-chi-ngoai-convert/fsgt"
+    },
+    {
+        "chap": "Nhất Niệm Vĩnh Hằng Phiên ngoại: Huyết Tổ ( thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/wabu"
+    },
+    {
+        "chap": "Chương 396: Tử Nguyệt Thiên cung",
+        "url": "/reader/quang-am-chi-ngoai-convert/mbid"
+    },
+    {
+        "chap": "Chương 397: Một thời đại mới mạnh nhất chiến lực",
+        "url": "/reader/quang-am-chi-ngoai-convert/yifn"
+    },
+    {
+        "chap": "Chương 398: Nghĩa bạc vân thiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/vojx"
+    },
+    {
+        "chap": "Chương 399: Đến từ năm tháng truyền thừa",
+        "url": "/reader/quang-am-chi-ngoai-convert/khjo"
+    },
+    {
+        "chap": "Chương 400:. Độc Ma ra tay",
+        "url": "/reader/quang-am-chi-ngoai-convert/fdlg"
+    },
+    {
+        "chap": "Chương 401:. Nhân tộc chi hoàng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/nhze"
+    },
+    {
+        "chap": "Nhất Niệm Vĩnh Hằng Phiên ngoại: Huyết Tổ (trung)",
+        "url": "/reader/quang-am-chi-ngoai-convert/zlhe"
+    },
+    {
+        "chap": "Chương 402:. Vạn vật tùy hoàn cảnh mà thay đổi",
+        "url": "/reader/quang-am-chi-ngoai-convert/rnwv"
+    },
+    {
+        "chap": "Chương 403:. Phong hải Nhân tộc đệ nhất ngục",
+        "url": "/reader/quang-am-chi-ngoai-convert/favy"
+    },
+    {
+        "chap": "Chương 404: Hắn chính là Địa Ngục",
+        "url": "/reader/quang-am-chi-ngoai-convert/goli"
+    },
+    {
+        "chap": "Chương 405:. Thần bí chi khu",
+        "url": "/reader/quang-am-chi-ngoai-convert/cwds"
+    },
+    {
+        "chap": "Chương 406: Khu 132 mười bốn tội nhân",
+        "url": "/reader/quang-am-chi-ngoai-convert/oinl"
+    },
+    {
+        "chap": "Chương 407: Chỉ xích thiên nhai bất thức quân",
+        "url": "/reader/quang-am-chi-ngoai-convert/cutr"
+    },
+    {
+        "chap": "Chương 408: Một cái thần bí manh mối",
+        "url": "/reader/quang-am-chi-ngoai-convert/cman"
+    },
+    {
+        "chap": "Chương 409: Ảnh tử nổ",
+        "url": "/reader/quang-am-chi-ngoai-convert/eykq"
+    },
+    {
+        "chap": "Chương 410: Vạn Sơn mây mù phủ trời xanh",
+        "url": "/reader/quang-am-chi-ngoai-convert/zend"
+    },
+    {
+        "chap": "Chương 411 Thiên Lâm Sương Điêu Thủy Lay Phong",
+        "url": "/reader/quang-am-chi-ngoai-convert/zydu"
+    },
+    {
+        "chap": "Chương 412: Chỉ có lãng quên đoạn nhân quả",
+        "url": "/reader/quang-am-chi-ngoai-convert/mitc"
+    },
+    {
+        "chap": "Chương 413: Trên lịch sử thảm nhất Thần Linh",
+        "url": "/reader/quang-am-chi-ngoai-convert/ocsa"
+    },
+    {
+        "chap": "Chương 414: Kim Ô lạc Thiên Cung",
+        "url": "/reader/quang-am-chi-ngoai-convert/rchv"
+    },
+    {
+        "chap": "Chương 415: Diêu Vân Tuệ, suy nghĩ về người khác tốt lên",
+        "url": "/reader/quang-am-chi-ngoai-convert/wiub"
+    },
+    {
+        "chap": "Chương 416: Hắc y Vệ!",
+        "url": "/reader/quang-am-chi-ngoai-convert/nfwl"
+    },
+    {
+        "chap": "Chương 417: Mạnh nhất một thế hệ",
+        "url": "/reader/quang-am-chi-ngoai-convert/mfed"
+    },
+    {
+        "chap": "Chương 418: Giấc mơ không bao giờ chết",
+        "url": "/reader/quang-am-chi-ngoai-convert/zphw"
+    },
+    {
+        "chap": "Chương 419: Ác mộng của Hắc y Vệ",
+        "url": "/reader/quang-am-chi-ngoai-convert/rvkc"
+    },
+    {
+        "chap": "Chương 420: Tanh khí hun thiên độc tứ hải",
+        "url": "/reader/quang-am-chi-ngoai-convert/zlja"
+    },
+    {
+        "chap": "Chương 421: Rượu đục một ly, đối ẩm thành đoàn",
+        "url": "/reader/quang-am-chi-ngoai-convert/ajps"
+    },
+    {
+        "chap": "Chương 422: Quỷ U chi biến",
+        "url": "/reader/quang-am-chi-ngoai-convert/rsid"
+    },
+    {
+        "chap": "Chương 423: Thần bí Thái Hư Giới",
+        "url": "/reader/quang-am-chi-ngoai-convert/dawf"
+    },
+    {
+        "chap": "Chương 424: Quỷ Đế hàng lâm!",
+        "url": "/reader/quang-am-chi-ngoai-convert/rhjs"
+    },
+    {
+        "chap": "Chương 425: Người đến không tốt",
+        "url": "/reader/quang-am-chi-ngoai-convert/fhxy"
+    },
+    {
+        "chap": "Chương 426: Cô độc trong ngõ tối",
+        "url": "/reader/quang-am-chi-ngoai-convert/ukrq"
+    },
+    {
+        "chap": "Chương 427: Gặp gỡ nhóm khuê mật",
+        "url": "/reader/quang-am-chi-ngoai-convert/muij"
+    },
+    {
+        "chap": "Chương 428: Nhị Ngưu có muốn hay không",
+        "url": "/reader/quang-am-chi-ngoai-convert/wkrg"
+    },
+    {
+        "chap": "Chương 429: Thế giới trong bích hoạ",
+        "url": "/reader/quang-am-chi-ngoai-convert/mqji"
+    },
+    {
+        "chap": "Chương 430:. Này giới duy tốt độc tôn",
+        "url": "/reader/quang-am-chi-ngoai-convert/hvfy"
+    },
+    {
+        "chap": "Nhất Niệm Vĩnh Hằng Phiên ngoại: Huyết Tổ (hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/pjyi"
+    },
+    {
+        "chap": "Chương 431: Một gậy trúc vắt ngang thiên thu",
+        "url": "/reader/quang-am-chi-ngoai-convert/ouvp"
+    },
+    {
+        "chap": "Chương 432: Uổng xưng tiểu hài tử giả, chết!",
+        "url": "/reader/quang-am-chi-ngoai-convert/zsan"
+    },
+    {
+        "chap": "Chương 433: Mạnh nhất khiên thịt ra đời!",
+        "url": "/reader/quang-am-chi-ngoai-convert/gljt"
+    },
+    {
+        "chap": "Chương 434: Ta không vào địa ngục thì ai vào địa ngục",
+        "url": "/reader/quang-am-chi-ngoai-convert/ksue"
+    },
+    {
+        "chap": "Chương 435: Nguyên thủy nhất Thái Thương tổ đao",
+        "url": "/reader/quang-am-chi-ngoai-convert/bjzo"
+    },
+    {
+        "chap": "Chương 436: Một khi đắc đạo Thương Long lên",
+        "url": "/reader/quang-am-chi-ngoai-convert/skyj"
+    },
+    {
+        "chap": "Chương 437: Thương Long hóa Thiên Đạo!",
+        "url": "/reader/quang-am-chi-ngoai-convert/geiy"
+    },
+    {
+        "chap": "Chương 438: Chân Tiên thập tràng",
+        "url": "/reader/quang-am-chi-ngoai-convert/ibxd"
+    },
+    {
+        "chap": "Chương 439: Trần Nhị ngưu: Ta mắt mù",
+        "url": "/reader/quang-am-chi-ngoai-convert/jxnb"
+    },
+    {
+        "chap": "Chương 440:. Làm đại sự, chúng ta là rất nghiêm túc",
+        "url": "/reader/quang-am-chi-ngoai-convert/qung"
+    },
+    {
+        "chap": "Chương 441: Thanh Ngưu phấn khích chạy trốn",
+        "url": "/reader/quang-am-chi-ngoai-convert/hzsu"
+    },
+    {
+        "chap": "Chương 442: Không hẹn mà gặp",
+        "url": "/reader/quang-am-chi-ngoai-convert/amnf"
+    },
+    {
+        "chap": "Chương 443: Từ trên thẻ trúc xóa đi",
+        "url": "/reader/quang-am-chi-ngoai-convert/qayc"
+    },
+    {
+        "chap": "Chương 444: Một Quỳ Kinh Thiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/mbgz"
+    },
+    {
+        "chap": "Chương 445: Thần Linh vị cách",
+        "url": "/reader/quang-am-chi-ngoai-convert/oqvj"
+    },
+    {
+        "chap": "Chương 446: Tha hương gặp cố nhân",
+        "url": "/reader/quang-am-chi-ngoai-convert/cbpy"
+    },
+    {
+        "chap": "Chương 447: Càng diễn càng lớn",
+        "url": "/reader/quang-am-chi-ngoai-convert/sjek"
+    },
+    {
+        "chap": "Chương 448: Đoạt!",
+        "url": "/reader/quang-am-chi-ngoai-convert/dksc"
+    },
+    {
+        "chap": "Chương 449: Thần tử xuất hành",
+        "url": "/reader/quang-am-chi-ngoai-convert/xcst"
+    },
+    {
+        "chap": "Chương 450:. Đại nhân, đây là người mệnh đăng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/xdpk"
+    },
+    {
+        "chap": "Chương 451: Xa Bỉ Thi cùng A La Ngạc",
+        "url": "/reader/quang-am-chi-ngoai-convert/iylx"
+    },
+    {
+        "chap": "Chương 452: Không có việc gì? Không có việc gì!",
+        "url": "/reader/quang-am-chi-ngoai-convert/qvem"
+    },
+    {
+        "chap": "Chương 453: Thân phận thần tử Kinh Thần Điện (xin vé tháng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/cmbj"
+    },
+    {
+        "chap": "Chương 454: Tế Thiên!",
+        "url": "/reader/quang-am-chi-ngoai-convert/bkey"
+    },
+    {
+        "chap": "Chương 455: Siêu cấp tạo Hóa!",
+        "url": "/reader/quang-am-chi-ngoai-convert/usgq"
+    },
+    {
+        "chap": "Chương 456: Chứng nhận Thiên Đạo sinh ra",
+        "url": "/reader/quang-am-chi-ngoai-convert/rjmx"
+    },
+    {
+        "chap": "Chương 457: Minh Linh Huyết Sí đăng",
+        "url": "/reader/quang-am-chi-ngoai-convert/woih"
+    },
+    {
+        "chap": "Chương 458: Thiên Phong chi hoàng",
+        "url": "/reader/quang-am-chi-ngoai-convert/ocbi"
+    },
+    {
+        "chap": "Chương 459: Mũ rơm chi tu xuất hiện!",
+        "url": "/reader/quang-am-chi-ngoai-convert/higp"
+    },
+    {
+        "chap": "Chương 460: Phản ứng căng thẳng",
+        "url": "/reader/quang-am-chi-ngoai-convert/dtqw"
+    },
+    {
+        "chap": "Chương 461: Thần Linh chi lực, vô hạn phục sinh!",
+        "url": "/reader/quang-am-chi-ngoai-convert/tweq"
+    },
+    {
+        "chap": "Chương 462: Hóa thân thành Thần",
+        "url": "/reader/quang-am-chi-ngoai-convert/jemz"
+    },
+    {
+        "chap": "Chương 463: Hộp trong Trái tim",
+        "url": "/reader/quang-am-chi-ngoai-convert/jpda"
+    },
+    {
+        "chap": "Chương 464: Quỷ Đế hàng lâm",
+        "url": "/reader/quang-am-chi-ngoai-convert/hfzn"
+    },
+    {
+        "chap": "Chương 465: Ta đã thấy gì... .",
+        "url": "/reader/quang-am-chi-ngoai-convert/fwgz"
+    },
+    {
+        "chap": "Chương 466: Tương tư thấu xương, có biết chăng",
+        "url": "/reader/quang-am-chi-ngoai-convert/ijfy"
+    },
+    {
+        "chap": "Chương 467: Đây là Linh Nhi Bản Mệnh chi ti!",
+        "url": "/reader/quang-am-chi-ngoai-convert/kvcl"
+    },
+    {
+        "chap": "Chương 468: Linh hoàng thi hài bên trên Đại Thế Giới",
+        "url": "/reader/quang-am-chi-ngoai-convert/eugf"
+    },
+    {
+        "chap": "Chương 469: Lộc cộc lộc cộc",
+        "url": "/reader/quang-am-chi-ngoai-convert/srhb"
+    },
+    {
+        "chap": "Chương 470: Đôi mắt ẩn nấp trong bầu trời",
+        "url": "/reader/quang-am-chi-ngoai-convert/uqcz"
+    },
+    {
+        "chap": "Chương 471: Hứa Thanh Điên cuồng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/lgqh"
+    },
+    {
+        "chap": "Chương 472: Linh Nhi lên xe, ta đèo ngươi về nhà",
+        "url": "/reader/quang-am-chi-ngoai-convert/sxih"
+    },
+    {
+        "chap": "Chương 473: Gió giật trước lúc bão về",
+        "url": "/reader/quang-am-chi-ngoai-convert/zadq"
+    },
+    {
+        "chap": "Quyển thứ sáu thanh minh Chương 474: Mấy nghìn năm không có chi biến!",
+        "url": "/reader/quang-am-chi-ngoai-convert/mhia"
+    },
+    {
+        "chap": "Chương 475: Tùy hành thư lệnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/tsgh"
+    },
+    {
+        "chap": "Chương 476: Phong hải chiến sự",
+        "url": "/reader/quang-am-chi-ngoai-convert/gvwa"
+    },
+    {
+        "chap": "Chương 477: Phong Tiêu Tiêu Hề dịch thủy hàn",
+        "url": "/reader/quang-am-chi-ngoai-convert/wtpk"
+    },
+    {
+        "chap": "Chương 478: Cung chủ lưu lại manh mối",
+        "url": "/reader/quang-am-chi-ngoai-convert/tnbd"
+    },
+    {
+        "chap": "Chương 479: Hồn Thiên lão tổ cùng Trấn Hải thạch ma",
+        "url": "/reader/quang-am-chi-ngoai-convert/skau"
+    },
+    {
+        "chap": "Chương 480:. Một cái cũng không thể thiếu!",
+        "url": "/reader/quang-am-chi-ngoai-convert/hcwn"
+    },
+    {
+        "chap": "Chương 481: Cực lạc Hoan hỉ hoa",
+        "url": "/reader/quang-am-chi-ngoai-convert/rtzu"
+    },
+    {
+        "chap": "Chương 482: Trước mặt Diêm Vương chớ kêu gào",
+        "url": "/reader/quang-am-chi-ngoai-convert/gbln"
+    },
+    {
+        "chap": "Chương 483: Một bước cô nhạn một bước ma",
+        "url": "/reader/quang-am-chi-ngoai-convert/zxfk"
+    },
+    {
+        "chap": "Chương 484: Kim Ô thôn Nhật",
+        "url": "/reader/quang-am-chi-ngoai-convert/lnfe"
+    },
+    {
+        "chap": "Năm mới ghi cho thư hữu một phong thơ",
+        "url": "/reader/quang-am-chi-ngoai-convert/bgwq"
+    },
+    {
+        "chap": "Chương 485: Kim Ô Đạo Anh bạn Triều Hà",
+        "url": "/reader/quang-am-chi-ngoai-convert/rocb"
+    },
+    {
+        "chap": "Chương 486: Tử Tinh vi quang Thiên Cung run rẩy",
+        "url": "/reader/quang-am-chi-ngoai-convert/wxfb"
+    },
+    {
+        "chap": "Chương 487: Đến từ Thần Linh đoạt xá",
+        "url": "/reader/quang-am-chi-ngoai-convert/aslz"
+    },
+    {
+        "chap": "Chương 488: Hắn không muốn đoạt xá rồi....",
+        "url": "/reader/quang-am-chi-ngoai-convert/yhtc"
+    },
+    {
+        "chap": "Chương 489: Săn sóc Thần Linh: Hình Ngục Ti truyền thống",
+        "url": "/reader/quang-am-chi-ngoai-convert/irzm"
+    },
+    {
+        "chap": "Chương 490: Đáng xấu hổ không làm mà hưởng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/okim"
+    },
+    {
+        "chap": "Chương 491: Thân ảnh trên Hoan Hỉ Hoa",
+        "url": "/reader/quang-am-chi-ngoai-convert/xftj"
+    },
+    {
+        "chap": "Chương 492: Một đạo hào quang chấn ngàn ma",
+        "url": "/reader/quang-am-chi-ngoai-convert/rjlu"
+    },
+    {
+        "chap": "Chương 493: Là ngươi! Là ngươi! !",
+        "url": "/reader/quang-am-chi-ngoai-convert/dleu"
+    },
+    {
+        "chap": "Chương 494: Bổ nhiệm Hứa Thanh, thay Cung chủ chi quyền!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ptrk"
+    },
+    {
+        "chap": "Chương 495: Nóng nảy đại điểu!",
+        "url": "/reader/quang-am-chi-ngoai-convert/vzfy"
+    },
+    {
+        "chap": "Chương 496: Này tộc, nên diệt",
+        "url": "/reader/quang-am-chi-ngoai-convert/hpdx"
+    },
+    {
+        "chap": "Chương 497: Hắc Vân áp Tiên Tiên kinh sợ",
+        "url": "/reader/quang-am-chi-ngoai-convert/dsue"
+    },
+    {
+        "chap": "Chương 498: Hứa Thanh hữu hảo hiệp thương",
+        "url": "/reader/quang-am-chi-ngoai-convert/vjfu"
+    },
+    {
+        "chap": "Chương 499: Cơ thể rất trung thực",
+        "url": "/reader/quang-am-chi-ngoai-convert/mxdh"
+    },
+    {
+        "chap": "Chương 500: ta, đã trở về!",
+        "url": "/reader/quang-am-chi-ngoai-convert/rvfk"
+    },
+    {
+        "chap": "Chương 501:. Nửa bước Uẩn thần! (cầu vé tháng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/xerj"
+    },
+    {
+        "chap": "Chương 502: Tiểu sư đệ, ta ở chỗ này! ! (cầu vé tháng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/rmzw"
+    },
+    {
+        "chap": "Chương 503: Thế gian luyện ngục (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/jvzq"
+    },
+    {
+        "chap": "Chương 503: Thế gian luyện ngục (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/zofe"
+    },
+    {
+        "chap": "Chương 504: Cái thế giới này, là ăn thịt người",
+        "url": "/reader/quang-am-chi-ngoai-convert/srlz"
+    },
+    {
+        "chap": "Chương 505:. Hồng Linh chi hoàng (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/rwik"
+    },
+    {
+        "chap": "Chương 505:. Hồng Linh chi hoàng (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/naxw"
+    },
+    {
+        "chap": "Chương 506: Tin dữ! ! (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/wedq"
+    },
+    {
+        "chap": "Chương 506: Tin dữ! ! (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/crob"
+    },
+    {
+        "chap": "Chương 507: Độc tướng thiên cổ nhượng anh hùng (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/crqy"
+    },
+    {
+        "chap": "Chương 507: Độc tướng thiên cổ nhượng anh hùng (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/cndl"
+    },
+    {
+        "chap": "Chương 508:. Lấy Phong hải chi đỉnh, vịnh chí",
+        "url": "/reader/quang-am-chi-ngoai-convert/wftx"
+    },
+    {
+        "chap": "Chương 509:. Khải hoàn hồi quận",
+        "url": "/reader/quang-am-chi-ngoai-convert/yvix"
+    },
+    {
+        "chap": "Chương 510:. Cổ Việt Chương Ngạn",
+        "url": "/reader/quang-am-chi-ngoai-convert/iexp"
+    },
+    {
+        "chap": "Chương 511: Hồ sơ mật quyển mười chín",
+        "url": "/reader/quang-am-chi-ngoai-convert/wgyk"
+    },
+    {
+        "chap": "Chương 512: Hồng Nguyệt xích mẫu!",
+        "url": "/reader/quang-am-chi-ngoai-convert/pcox"
+    },
+    {
+        "chap": "Chương 513: Thực lực chưa đủ sao làm đại sự bây giờ?",
+        "url": "/reader/quang-am-chi-ngoai-convert/npjb"
+    },
+    {
+        "chap": "Chương 513: Thực lực chưa đủ sao làm đại sự bây giờ? (bổ sung, phần này bị đội trưởng gặm cmn mất)",
+        "url": "/reader/quang-am-chi-ngoai-convert/tjlu"
+    },
+    {
+        "chap": "Chương 514: Nhưng ta là hắn Sư tôn!",
+        "url": "/reader/quang-am-chi-ngoai-convert/jxfv"
+    },
+    {
+        "chap": "Chương 515: Đoạn kiếm mệnh đăng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/nrqv"
+    },
+    {
+        "chap": "Chương 516: Tiên cấm chi địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/rfyj"
+    },
+    {
+        "chap": "Chương 517: Sư mệnh khó trái",
+        "url": "/reader/quang-am-chi-ngoai-convert/xlbh"
+    },
+    {
+        "chap": "Chương 518: Độc cấm điên cuồng",
+        "url": "/reader/quang-am-chi-ngoai-convert/qpnu"
+    },
+    {
+        "chap": "Chương 519: Nhân tộc Tiên Thuật",
+        "url": "/reader/quang-am-chi-ngoai-convert/tbsr"
+    },
+    {
+        "chap": "Chương 520: Tiên cấm mở ra chân tướng! (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/vizu"
+    },
+    {
+        "chap": "Chương 520: Tiên cấm mở ra chân tướng! (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/uday"
+    },
+    {
+        "chap": "Chương 521: Có thể tạo vạn vật chi thủ (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/lkvr"
+    },
+    {
+        "chap": "Chương 521: Có thể tạo vạn vật chi thủ (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/stxw"
+    },
+    {
+        "chap": "Chương 522: Tử Huyền Thượng Thanh đăng (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/lwan"
+    },
+    {
+        "chap": "Chương 522: Tử Huyền Thượng Thanh đăng (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/jfyw"
+    },
+    {
+        "chap": "Chương 523: Thiên Mệnh đạo anh cảnh (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/bocj"
+    },
+    {
+        "chap": "Chương 523: Thiên Mệnh đạo anh cảnh (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/xkcr"
+    },
+    {
+        "chap": "Chương 524: Xích mẫu hàng lâm (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/dbpi"
+    },
+    {
+        "chap": "Chương 524: Xích mẫu hàng lâm (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/olyh"
+    },
+    {
+        "chap": "Chương 524: Xích mẫu hàng lâm (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/cozy"
+    },
+    {
+        "chap": "Chương 525: Đoạt thức ăn trước miệng cọp!",
+        "url": "/reader/quang-am-chi-ngoai-convert/sifx"
+    },
+    {
+        "chap": "Chương 526: Tân Tiên Cấm chi chủ!",
+        "url": "/reader/quang-am-chi-ngoai-convert/duyo"
+    },
+    {
+        "chap": "Chương 527: Dường như đã từng tương tự",
+        "url": "/reader/quang-am-chi-ngoai-convert/ohiu"
+    },
+    {
+        "chap": "Chương 528: Hoa quế mùi vị",
+        "url": "/reader/quang-am-chi-ngoai-convert/pwbl"
+    },
+    {
+        "chap": "Chương 529: Chân tướng rõ ràng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/qaex"
+    },
+    {
+        "chap": "Chương 530:. Nhân tộc vực bảo, Thự Quang Chi Dương! (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/kyux"
+    },
+    {
+        "chap": "Chương 530:. Nhân tộc vực bảo, Thự Quang Chi Dương! (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/ajyq"
+    },
+    {
+        "chap": "Chương 531: Tâm chi sở hướng, hành chi sở vãng",
+        "url": "/reader/quang-am-chi-ngoai-convert/zojk"
+    },
+    {
+        "chap": "Chương 532: Quận thừa, mời chỉ ra chỗ sai!",
+        "url": "/reader/quang-am-chi-ngoai-convert/qmzg"
+    },
+    {
+        "chap": "Chương 533: Thái Tử môn sinh Bạch Tiêu Trác",
+        "url": "/reader/quang-am-chi-ngoai-convert/ijbk"
+    },
+    {
+        "chap": "Chương 534: Viễn Cổ trở về",
+        "url": "/reader/quang-am-chi-ngoai-convert/dbho"
+    },
+    {
+        "chap": "Chương 535: Hứa Thanh đòn sát thủ!",
+        "url": "/reader/quang-am-chi-ngoai-convert/mngs"
+    },
+    {
+        "chap": "Chương 536: Bạch Tiêu Trác, kết thúc (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/dogl"
+    },
+    {
+        "chap": "Chương 536: Bạch Tiêu Trác, kết thúc (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/sbxg"
+    },
+    {
+        "chap": "Chương 537: San bằng bụi gai, hướng đi bảo tọa! (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/asge"
+    },
+    {
+        "chap": "Chương 537: San bằng bụi gai, hướng đi bảo tọa! (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/tiul"
+    },
+    {
+        "chap": "Chương 538: Nhân tâm sở quy, duy đạo cùng nghĩa",
+        "url": "/reader/quang-am-chi-ngoai-convert/jetq"
+    },
+    {
+        "chap": "Chương 539: Hứa Thanh, ngươi đã có đạo lữ?",
+        "url": "/reader/quang-am-chi-ngoai-convert/dkgb"
+    },
+    {
+        "chap": "Chương 540: Gió đêm hôm qua , Đêm nay Tinh Hà (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/vtxp"
+    },
+    {
+        "chap": "Chương 540: Gió đêm hôm qua , Đêm nay Tinh Hà (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/nqbu"
+    },
+    {
+        "chap": "Chương 541: Mắt có phồn hoa, tâm hướng tinh thần (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/kaxi"
+    },
+    {
+        "chap": "Chương 541: Mắt có phồn hoa, tâm hướng tinh thần (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/vwje"
+    },
+    {
+        "chap": "Chương 542: Tam nữ nhất xà nhất nam (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/ladb"
+    },
+    {
+        "chap": "Chương 542: Tam nữ nhất xà nhất nam (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/akgs"
+    },
+    {
+        "chap": "Chương 543: Cố địa, cố nhân, cố sự",
+        "url": "/reader/quang-am-chi-ngoai-convert/gnzw"
+    },
+    {
+        "chap": "Chương 544: Hoàng thân quốc thích",
+        "url": "/reader/quang-am-chi-ngoai-convert/utol"
+    },
+    {
+        "chap": "Chương 545: Ám sát trước mộ phần.",
+        "url": "/reader/quang-am-chi-ngoai-convert/cvuq"
+    },
+    {
+        "chap": "Chương 546: Đạo mệnh Thiên Ma, thập tam anh thành",
+        "url": "/reader/quang-am-chi-ngoai-convert/raol"
+    },
+    {
+        "chap": "Chương 547: Dẫn gió thổi lửa, mượn đao giết người",
+        "url": "/reader/quang-am-chi-ngoai-convert/xlfq"
+    },
+    {
+        "chap": "Chương 548: Chạm Phong Hải nghịch lân giả, chết!",
+        "url": "/reader/quang-am-chi-ngoai-convert/aved"
+    },
+    {
+        "chap": "Chương 549: Tiểu A Thanh, chuẩn bị tốt để làm đại sự",
+        "url": "/reader/quang-am-chi-ngoai-convert/oqfl"
+    },
+    {
+        "chap": "Chương 550: Đạo Nguyệt thiên đoàn",
+        "url": "/reader/quang-am-chi-ngoai-convert/ahbk"
+    },
+    {
+        "chap": "Chương 551: Âm Dương Hoa Gian Tông tân đệ tử Hứa Thanh",
+        "url": "/reader/quang-am-chi-ngoai-convert/nmhx"
+    },
+    {
+        "chap": "Chương 552: Cùng thiên tranh giành, không ngày đổi thay",
+        "url": "/reader/quang-am-chi-ngoai-convert/rvuw"
+    },
+    {
+        "chap": "Chương 553: Người trẻ tuổi không nói võ đức!",
+        "url": "/reader/quang-am-chi-ngoai-convert/mjln"
+    },
+    {
+        "chap": "Chương 554: Thời gian dừng lại",
+        "url": "/reader/quang-am-chi-ngoai-convert/ytbm"
+    },
+    {
+        "chap": "Chương 555: Ngươi mạnh như vậy như thế nào không nói sớm!",
+        "url": "/reader/quang-am-chi-ngoai-convert/pduc"
+    },
+    {
+        "chap": "Chương 556: Có một loại nói dối gọi là hy vọng",
+        "url": "/reader/quang-am-chi-ngoai-convert/kpce"
+    },
+    {
+        "chap": "Chương 557: Đom Đóm trong đêm",
+        "url": "/reader/quang-am-chi-ngoai-convert/imrv"
+    },
+    {
+        "chap": "Chương 558: Mục đoạn phi hồng, thiên nhai lộ viễn",
+        "url": "/reader/quang-am-chi-ngoai-convert/mhzt"
+    },
+    {
+        "chap": "Chương 559: Đồng xanh quan tài phía dưới Thiên Hỏa Hải!",
+        "url": "/reader/quang-am-chi-ngoai-convert/wcrb"
+    },
+    {
+        "chap": "Chương 560: Tiền bối, ta thật sự không thể ăn!",
+        "url": "/reader/quang-am-chi-ngoai-convert/smah"
+    },
+    {
+        "chap": "Chương 561: Mặt Trời mọc Trăng chưa lặn, Đế Tử trở lại Tinh Hà",
+        "url": "/reader/quang-am-chi-ngoai-convert/jzmt"
+    },
+    {
+        "chap": "Chương 562: Gió thổi tàn đóm không thành tro",
+        "url": "/reader/quang-am-chi-ngoai-convert/udep"
+    },
+    {
+        "chap": "Chương 563: Hồng nhạn trường phi quang bất độ",
+        "url": "/reader/quang-am-chi-ngoai-convert/zilo"
+    },
+    {
+        "chap": "Chương 564: Hung tinh lăng Nhật toái trường không",
+        "url": "/reader/quang-am-chi-ngoai-convert/lkoc"
+    },
+    {
+        "chap": "Chương 565: Tăng thêm ngươi là đủ rồi",
+        "url": "/reader/quang-am-chi-ngoai-convert/lpdm"
+    },
+    {
+        "chap": "Chương 566: Vận rủi thần quyền",
+        "url": "/reader/quang-am-chi-ngoai-convert/chpz"
+    },
+    {
+        "chap": "Chương 567: Thiên Hỏa Hải phía sau ước định",
+        "url": "/reader/quang-am-chi-ngoai-convert/mutz"
+    },
+    {
+        "chap": "Chương 568: Vọng Cổ bí ẩn",
+        "url": "/reader/quang-am-chi-ngoai-convert/jkho"
+    },
+    {
+        "chap": "Chương 569: Chúa Tể Thần Binh Trấn Bắc nguyên",
+        "url": "/reader/quang-am-chi-ngoai-convert/shfl"
+    },
+    {
+        "chap": "Chương 570: Các ngươi xem, trên cái đinh kia có người? (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/gsvq"
+    },
+    {
+        "chap": "Chương 570: Các ngươi xem, trên cái đinh kia có người? (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/uwvm"
+    },
+    {
+        "chap": "Chương 571: Phục sinh đi, Tam tỷ của ta(cám ơn tên mọi người)",
+        "url": "/reader/quang-am-chi-ngoai-convert/lvzs"
+    },
+    {
+        "chap": "Chương 572: Thiên Kiếp Tôi Hồn, Ngưu nhi trở về",
+        "url": "/reader/quang-am-chi-ngoai-convert/czlq"
+    },
+    {
+        "chap": "Chương 573: Thừa dịp Trăng mờ, mở hào phần mộ",
+        "url": "/reader/quang-am-chi-ngoai-convert/ytze"
+    },
+    {
+        "chap": "Chương 574: Duyên, tuyệt không thể tả",
+        "url": "/reader/quang-am-chi-ngoai-convert/foti"
+    },
+    {
+        "chap": "Chương 575: Đều là lỗi của Huyền U Cổ Hoàng",
+        "url": "/reader/quang-am-chi-ngoai-convert/kcyg"
+    },
+    {
+        "chap": "Chương 576: Một vở kịch lớn!",
+        "url": "/reader/quang-am-chi-ngoai-convert/odqb"
+    },
+    {
+        "chap": "Chương 577: Nhân sinh như một vở kịch, tất cả đều dựa vào diễn xuất",
+        "url": "/reader/quang-am-chi-ngoai-convert/vqlf"
+    },
+    {
+        "chap": "Chương 578: Vì Thần Linh vũ, Tú giả thưởng, dửu giả chết!",
+        "url": "/reader/quang-am-chi-ngoai-convert/cled"
+    },
+    {
+        "chap": "Chương 579: Tế Nguyệt tương phong khởi, Tinh Hỏa dục liệu nguyên",
+        "url": "/reader/quang-am-chi-ngoai-convert/fuae"
+    },
+    {
+        "chap": "Chương 580: Cướp tiền cướp sắc hậu quả",
+        "url": "/reader/quang-am-chi-ngoai-convert/hocs"
+    },
+    {
+        "chap": "Chương 581: Tiệm Thuốc mạnh nhất Tế Nguyệt đại vực trong tương lai đang hình thành",
+        "url": "/reader/quang-am-chi-ngoai-convert/teaz"
+    },
+    {
+        "chap": "Chương 582: Rút râu miệng hổ, động thổ Thái tuế (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/ydxt"
+    },
+    {
+        "chap": "Chương 582: Rút râu miệng hổ, động thổ Thái tuế (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/uqrf"
+    },
+    {
+        "chap": "Chương 583: Ngươi sợ, ta cũng sợ (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/faur"
+    },
+    {
+        "chap": "Chương 583: Ngươi sợ, ta cũng sợ (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/xptk"
+    },
+    {
+        "chap": "Chương 584: Chủ tử, người này không phải chim tốt!",
+        "url": "/reader/quang-am-chi-ngoai-convert/bqgm"
+    },
+    {
+        "chap": "Chương 585: Nghịch Nguyệt Thần Điện mười vạn tượng",
+        "url": "/reader/quang-am-chi-ngoai-convert/shin"
+    },
+    {
+        "chap": "Chương 586: Ta Gạc... . Ngươi có độc! (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/qknf"
+    },
+    {
+        "chap": "Chương 586: Ta Gạc... . Ngươi có độc! (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/jywh"
+    },
+    {
+        "chap": "Chương 587: Trong bão cát khủng bố thân ảnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/esaj"
+    },
+    {
+        "chap": "Chương 588: Buông tha hài tử này!",
+        "url": "/reader/quang-am-chi-ngoai-convert/yvls"
+    },
+    {
+        "chap": "Chương 589: Đói khát đến từ Hồng Nguyệt quyền bính",
+        "url": "/reader/quang-am-chi-ngoai-convert/jbun"
+    },
+    {
+        "chap": "Chương 590: Thế gian hiếm thấy!",
+        "url": "/reader/quang-am-chi-ngoai-convert/sebi"
+    },
+    {
+        "chap": "Chương 591: Công tử, ra giá đi! (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/qnwb"
+    },
+    {
+        "chap": "Chương 591: Công tử, ra giá đi! (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/iejt"
+    },
+    {
+        "chap": "Chương 592: Dương danh Nghịch Nguyệt điện (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/udgy"
+    },
+    {
+        "chap": "Chương 592: Dương danh Nghịch Nguyệt điện (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/kzfl"
+    },
+    {
+        "chap": "Chương 593: Tự Âm Cổ Hà lấy Liệt Dương (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/pfam"
+    },
+    {
+        "chap": "Chương 593: Tự Âm Cổ Hà lấy Liệt Dương (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/qptk"
+    },
+    {
+        "chap": "Chương 594: Vớt ra cái gì đồ chơi! !",
+        "url": "/reader/quang-am-chi-ngoai-convert/asjx"
+    },
+    {
+        "chap": "Chương 595: Thái Dương bên trong lão gia gia",
+        "url": "/reader/quang-am-chi-ngoai-convert/fbgm"
+    },
+    {
+        "chap": "Chương 596: Xích Mẫu lột xác phàm trần",
+        "url": "/reader/quang-am-chi-ngoai-convert/rydn"
+    },
+    {
+        "chap": "Chương 597: Dược không thể ăn bậy (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/pazl"
+    },
+    {
+        "chap": "Chương 597: Dược không thể ăn bậy(Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/fdij"
+    },
+    {
+        "chap": "Chương 598: Cổ xưa năm tháng trước quang huy chuyện cũ",
+        "url": "/reader/quang-am-chi-ngoai-convert/xbnl"
+    },
+    {
+        "chap": "Chương 599: Không tin trời, không chịu mệnh!",
+        "url": "/reader/quang-am-chi-ngoai-convert/wxqo"
+    },
+    {
+        "chap": "Chương 600: Ba nghìn Thiên Lôi, Tịch Nam Trà Lệnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/erbq"
+    },
+    {
+        "chap": "Chương 601:. Ngươi chọc phải đại sự",
+        "url": "/reader/quang-am-chi-ngoai-convert/khgt"
+    },
+    {
+        "chap": "Chương 602: Tầm thường ấm áp nho nhỏ tiệm thuốc",
+        "url": "/reader/quang-am-chi-ngoai-convert/kyqo"
+    },
+    {
+        "chap": "Chương 603: Thương Long nhập chủ",
+        "url": "/reader/quang-am-chi-ngoai-convert/oafb"
+    },
+    {
+        "chap": "Chương 604: Thời gian, vừa vặn",
+        "url": "/reader/quang-am-chi-ngoai-convert/wxnl"
+    },
+    {
+        "chap": "Chương 605: Lại đến Nghịch Nguyệt điện",
+        "url": "/reader/quang-am-chi-ngoai-convert/utfx"
+    },
+    {
+        "chap": "Chương 606:. Lão tổ, tiểu tặc ngay tại trong tiệm thuốc",
+        "url": "/reader/quang-am-chi-ngoai-convert/jwoc"
+    },
+    {
+        "chap": "Chương 607:. Tràn đầy tự tin Thủ Phong lão tổ",
+        "url": "/reader/quang-am-chi-ngoai-convert/plrk"
+    },
+    {
+        "chap": "Chương 608: Quấy rầy, ta là tới mua đan dược",
+        "url": "/reader/quang-am-chi-ngoai-convert/rbtg"
+    },
+    {
+        "chap": "Chương 609: Lão tổ lễ phép",
+        "url": "/reader/quang-am-chi-ngoai-convert/ahyb"
+    },
+    {
+        "chap": "Chương 610: Ngược dòng tìm hiểu nguồn gốc khởi đầu (bổn nguyên)",
+        "url": "/reader/quang-am-chi-ngoai-convert/gidj"
+    },
+    {
+        "chap": "Chương 611: Người kia có điểm giống Nhị Ngưu",
+        "url": "/reader/quang-am-chi-ngoai-convert/dxpf"
+    },
+    {
+        "chap": "Chương 612: Đan tinh thăng Tế Nguyệt",
+        "url": "/reader/quang-am-chi-ngoai-convert/gsmb"
+    },
+    {
+        "chap": "Chương 613: Ta và ngươi như cũ bạn đồng hành",
+        "url": "/reader/quang-am-chi-ngoai-convert/ubrx"
+    },
+    {
+        "chap": "Chương 614: Hoàng cấp công pháp bí ẩn! (Canh [1])",
+        "url": "/reader/quang-am-chi-ngoai-convert/wfnh"
+    },
+    {
+        "chap": "Chương 615: Thế tử bố cục! (Canh [2])",
+        "url": "/reader/quang-am-chi-ngoai-convert/qfke"
+    },
+    {
+        "chap": "Chương 616: Mục tiêu: Thần Linh ánh mắt (Canh [3])",
+        "url": "/reader/quang-am-chi-ngoai-convert/omzx"
+    },
+    {
+        "chap": "Chương 617: Linh Hồn độ dày",
+        "url": "/reader/quang-am-chi-ngoai-convert/tasu"
+    },
+    {
+        "chap": "Chương 618: Thương Khung Xích Huyết, nhân gian điêu linh",
+        "url": "/reader/quang-am-chi-ngoai-convert/gabi"
+    },
+    {
+        "chap": "Chương 619: Nhân tính, thú tính, Thần Tính",
+        "url": "/reader/quang-am-chi-ngoai-convert/rjah"
+    },
+    {
+        "chap": "Chương 620:. Thần Linh bí ẩn",
+        "url": "/reader/quang-am-chi-ngoai-convert/qzhu"
+    },
+    {
+        "chap": "Chương 621: Nhìn không thấy ta, nhớ không nổi ta, quên ta",
+        "url": "/reader/quang-am-chi-ngoai-convert/bxgn"
+    },
+    {
+        "chap": "Chương 622: Tử Nguyệt hóa thần tàng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ymqo"
+    },
+    {
+        "chap": "Chương 623: Hứa Thanh quyền hành!",
+        "url": "/reader/quang-am-chi-ngoai-convert/fyxr"
+    },
+    {
+        "chap": "Chương 624: Buộc Thái Dương nam nhân",
+        "url": "/reader/quang-am-chi-ngoai-convert/iuxw"
+    },
+    {
+        "chap": "Chương 625: Tạc nhật thiều hoa, phong hòa tẫn khởi",
+        "url": "/reader/quang-am-chi-ngoai-convert/cyrm"
+    },
+    {
+        "chap": "Chương 626: Tứ oa mất đi không tìm thấy",
+        "url": "/reader/quang-am-chi-ngoai-convert/yrab"
+    },
+    {
+        "chap": "Chương 627: Môn tộc ngọn nguồn",
+        "url": "/reader/quang-am-chi-ngoai-convert/pyck"
+    },
+    {
+        "chap": "Chương 628: Cha mẹ sinh con trời sinh tính",
+        "url": "/reader/quang-am-chi-ngoai-convert/apwr"
+    },
+    {
+        "chap": "Chương 629: Triều Hà Vạn Pháp, Nhị Ngưu đại sự",
+        "url": "/reader/quang-am-chi-ngoai-convert/zphe"
+    },
+    {
+        "chap": "Chương 630: Triều Hà dị sắc ánh Thiên Khuyết",
+        "url": "/reader/quang-am-chi-ngoai-convert/znws"
+    },
+    {
+        "chap": "Chương 631: Tinh Hàng, phát ra như máu",
+        "url": "/reader/quang-am-chi-ngoai-convert/ecvr"
+    },
+    {
+        "chap": "Chương 632: Thủ Phong khởi nguyên",
+        "url": "/reader/quang-am-chi-ngoai-convert/aeok"
+    },
+    {
+        "chap": "Chương 633: Một chén Hoàng Tuyền thủy, trở về trảm Thần đài",
+        "url": "/reader/quang-am-chi-ngoai-convert/dcmq"
+    },
+    {
+        "chap": "Chương 634: Khuôn mặt kiếp trước",
+        "url": "/reader/quang-am-chi-ngoai-convert/apoy"
+    },
+    {
+        "chap": "Chương 635: Thiên địa nghịch chuyển, gia nãi đều tại",
+        "url": "/reader/quang-am-chi-ngoai-convert/amdb"
+    },
+    {
+        "chap": "Chương 636: Đặc thù nhân vật",
+        "url": "/reader/quang-am-chi-ngoai-convert/oghu"
+    },
+    {
+        "chap": "Chương 637: Vở kịch hot nhất Tế Nguyệt (Hào Quang Rực Rỡ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/rkdz"
+    },
+    {
+        "chap": "Chương 638: Tồn tại, tức là có dấu vết",
+        "url": "/reader/quang-am-chi-ngoai-convert/lafu"
+    },
+    {
+        "chap": "Chương 639: Vở kịch lớn công chiếu!",
+        "url": "/reader/quang-am-chi-ngoai-convert/xdar"
+    },
+    {
+        "chap": "Chương 640: Chính thức lịch sử",
+        "url": "/reader/quang-am-chi-ngoai-convert/qxvy"
+    },
+    {
+        "chap": "Chương 641: Thủy mặc chi gian trảm Thần đài",
+        "url": "/reader/quang-am-chi-ngoai-convert/afwe"
+    },
+    {
+        "chap": "Chương 642: Thiên Đao trảm Xích Mẫu!",
+        "url": "/reader/quang-am-chi-ngoai-convert/mroy"
+    },
+    {
+        "chap": "Chương 643: Hứa Thanh chân dung, hiển lộ Tế Nguyệt",
+        "url": "/reader/quang-am-chi-ngoai-convert/kdyh"
+    },
+    {
+        "chap": "Chương 644: Uẩn thần chi huyết làm gương, Viễn Cổ chi kiếp làm chứng",
+        "url": "/reader/quang-am-chi-ngoai-convert/zoxv"
+    },
+    {
+        "chap": "Chương 645: Giờ ngọ đã đến!",
+        "url": "/reader/quang-am-chi-ngoai-convert/gfls"
+    },
+    {
+        "chap": "Chương 646: Thanh Ti làm đường, Viêm Nguyệt chi môn",
+        "url": "/reader/quang-am-chi-ngoai-convert/dhjw"
+    },
+    {
+        "chap": "Chương 647: Đây là tình yêu",
+        "url": "/reader/quang-am-chi-ngoai-convert/pkad"
+    },
+    {
+        "chap": "Chương 648: Phong sa tỏa mạc tư đạo nhi",
+        "url": "/reader/quang-am-chi-ngoai-convert/zxbw"
+    },
+    {
+        "chap": "Chương 649: Lòng có phong bạo, mới gọi là sống",
+        "url": "/reader/quang-am-chi-ngoai-convert/nwse"
+    },
+    {
+        "chap": "Chương 650:. Chí nguyện to lớn làm mới mạch suy nghĩ",
+        "url": "/reader/quang-am-chi-ngoai-convert/eqth"
+    },
+    {
+        "chap": "Chương 651: Độc cấm Thần trớ, luyện chi trong mắt (Thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/cquz"
+    },
+    {
+        "chap": "Chương 651: Độc cấm Thần trớ, luyện chi trong mắt (Hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/odef"
+    },
+    {
+        "chap": "Chương 652: Đại đồ đằng phía sau tiểu đồ đằng",
+        "url": "/reader/quang-am-chi-ngoai-convert/lwnh"
+    },
+    {
+        "chap": "Chương 653: Thần linh Tàn diện thanh âm",
+        "url": "/reader/quang-am-chi-ngoai-convert/txrc"
+    },
+    {
+        "chap": "Chương 654: Thần Linh quốc gia",
+        "url": "/reader/quang-am-chi-ngoai-convert/hlwj"
+    },
+    {
+        "chap": "Chương 655: Hứa Thanh cấm khu, thần tử kêu rên",
+        "url": "/reader/quang-am-chi-ngoai-convert/hsvr"
+    },
+    {
+        "chap": "Chương 656: Yêu ma chi chủ",
+        "url": "/reader/quang-am-chi-ngoai-convert/pwqx"
+    },
+    {
+        "chap": "Chương 657: Thay thế tử rời núi",
+        "url": "/reader/quang-am-chi-ngoai-convert/bexc"
+    },
+    {
+        "chap": "Chương 658: Một gà lên không, vạn người thông suốt",
+        "url": "/reader/quang-am-chi-ngoai-convert/ueys"
+    },
+    {
+        "chap": "Chương 659: Quần kê loạn vũ",
+        "url": "/reader/quang-am-chi-ngoai-convert/vujb"
+    },
+    {
+        "chap": "Chương 660: Tiểu A Thanh, ta thiếu đi cái thận!",
+        "url": "/reader/quang-am-chi-ngoai-convert/rsnz"
+    },
+    {
+        "chap": "Xin nghỉ phép",
+        "url": "/reader/quang-am-chi-ngoai-convert/jhuw"
+    },
+    {
+        "chap": "Chương 661: Hứa Thanh lãng quên ý cảnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/yusz"
+    },
+    {
+        "chap": "Chương 662: Không thể nói bí mật với Linh Nhi",
+        "url": "/reader/quang-am-chi-ngoai-convert/xvfh"
+    },
+    {
+        "chap": "Chương 663: Gặp lại hồ ly lẳng lơ",
+        "url": "/reader/quang-am-chi-ngoai-convert/nqly"
+    },
+    {
+        "chap": "Chương 664: Quá xấu, không thể nuốt xuống!",
+        "url": "/reader/quang-am-chi-ngoai-convert/sozb"
+    },
+    {
+        "chap": "Chương 665: Tinh Viêm Thượng Thần",
+        "url": "/reader/quang-am-chi-ngoai-convert/orkm"
+    },
+    {
+        "chap": "Chương 666: Phong Hải cố nhân đến",
+        "url": "/reader/quang-am-chi-ngoai-convert/mkqz"
+    },
+    {
+        "chap": "Chương 667: Nghịch Nguyệt chi biến",
+        "url": "/reader/quang-am-chi-ngoai-convert/zojl"
+    },
+    {
+        "chap": "Chương 668: Chủ tuy thiếu, lịch sự đa",
+        "url": "/reader/quang-am-chi-ngoai-convert/tuhi"
+    },
+    {
+        "chap": "Chương 669: Nghênh diện đào hoa bất thức quân",
+        "url": "/reader/quang-am-chi-ngoai-convert/vlcn"
+    },
+    {
+        "chap": "Chương 670: Thần lâm đại mạc",
+        "url": "/reader/quang-am-chi-ngoai-convert/nmxs"
+    },
+    {
+        "chap": "Chương 671: Hồng Nguyệt chi quyền, tuyệt không hai chủ!",
+        "url": "/reader/quang-am-chi-ngoai-convert/hcvf"
+    },
+    {
+        "chap": "Chương 672: Liệt vị thứ bảy",
+        "url": "/reader/quang-am-chi-ngoai-convert/tnfx"
+    },
+    {
+        "chap": "Chương 673: Nghịch Nguyệt chi chủ",
+        "url": "/reader/quang-am-chi-ngoai-convert/gasq"
+    },
+    {
+        "chap": "Chương 674: Nhất tàng nhất thế giới",
+        "url": "/reader/quang-am-chi-ngoai-convert/tyeq"
+    },
+    {
+        "chap": "Chương 675: Thành thần nghi thức",
+        "url": "/reader/quang-am-chi-ngoai-convert/gzhw"
+    },
+    {
+        "chap": "Chương 676: Tử Nguyệt bên trên",
+        "url": "/reader/quang-am-chi-ngoai-convert/edzu"
+    },
+    {
+        "chap": "Chương 677: Phục hồi cùng quật khởi",
+        "url": "/reader/quang-am-chi-ngoai-convert/nhwr"
+    },
+    {
+        "chap": "Chương 678: Lại một nghi thức thành thần khác",
+        "url": "/reader/quang-am-chi-ngoai-convert/kgxt"
+    },
+    {
+        "chap": "Chương 679: Ta không có tư cách? !",
+        "url": "/reader/quang-am-chi-ngoai-convert/wgnj"
+    },
+    {
+        "chap": "Chương 680:. Nghịch Nguyệt sát ý, bàn thiên tế địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/gmzn"
+    },
+    {
+        "chap": "Chương 681: Cửu dương già thiên (Cửu dương che trời)",
+        "url": "/reader/quang-am-chi-ngoai-convert/dlmi"
+    },
+    {
+        "chap": "Chương 682: Chúng sinh chi nguyện dẫn vong hồn",
+        "url": "/reader/quang-am-chi-ngoai-convert/hxcy"
+    },
+    {
+        "chap": "Chương 683: Như Quân như chủ",
+        "url": "/reader/quang-am-chi-ngoai-convert/kypw"
+    },
+    {
+        "chap": "Chương 684: Mũi miệng não chân tạng phủ, trở về",
+        "url": "/reader/quang-am-chi-ngoai-convert/lymb"
+    },
+    {
+        "chap": "Chương 685: Hắn, xuất hiện",
+        "url": "/reader/quang-am-chi-ngoai-convert/poig"
+    },
+    {
+        "chap": "Chương 686: Cấm kỵ chi thuật",
+        "url": "/reader/quang-am-chi-ngoai-convert/rcmd"
+    },
+    {
+        "chap": "Chương 687: Kim Ô Thiên Tê, hoàng cấp quyết đấu( Thiên Tê: Tê giác)",
+        "url": "/reader/quang-am-chi-ngoai-convert/duzx"
+    },
+    {
+        "chap": "Chương 688: Thất đăng u hỏa Chú",
+        "url": "/reader/quang-am-chi-ngoai-convert/aoqj"
+    },
+    {
+        "chap": "Chương 689: Chính là so với ngươi còn mạnh hơn!",
+        "url": "/reader/quang-am-chi-ngoai-convert/utai"
+    },
+    {
+        "chap": "Chương 690: Quá khứ của ta, ngươi",
+        "url": "/reader/quang-am-chi-ngoai-convert/gusl"
+    },
+    {
+        "chap": "Chương 691: Cổ Việt Ninh Viêm",
+        "url": "/reader/quang-am-chi-ngoai-convert/nxag"
+    },
+    {
+        "chap": "Chương 692: Sau lưng ta cũng có người",
+        "url": "/reader/quang-am-chi-ngoai-convert/kmqo"
+    },
+    {
+        "chap": "Chương 693: Xích Mẫu xuất hiện, Chúa Tể sống lại!",
+        "url": "/reader/quang-am-chi-ngoai-convert/vtau"
+    },
+    {
+        "chap": "Chương 694: Hồng Nguyệt chi thổ",
+        "url": "/reader/quang-am-chi-ngoai-convert/mgxy"
+    },
+    {
+        "chap": "Chương 695: Ta là Tân Nguyệt, gọi ta Tử Chủ!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ruhv"
+    },
+    {
+        "chap": "Chương 696: Thần Khẩu đoạt thực",
+        "url": "/reader/quang-am-chi-ngoai-convert/xwmf"
+    },
+    {
+        "chap": "Chương 697: Đã lâu không gặp, Hứa Thanh!",
+        "url": "/reader/quang-am-chi-ngoai-convert/qpmy"
+    },
+    {
+        "chap": "Chương 698: Thần Thuật, chưởng mệnh!",
+        "url": "/reader/quang-am-chi-ngoai-convert/fjni"
+    },
+    {
+        "chap": "Chương 699: Mệnh, băng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ecmn"
+    },
+    {
+        "chap": "Chương 700: Quật cường tồn tại cảm giác",
+        "url": "/reader/quang-am-chi-ngoai-convert/cmgl"
+    },
+    {
+        "chap": "Chương 701: Quá khứ của ta ngươi vô pháp tưởng tượng",
+        "url": "/reader/quang-am-chi-ngoai-convert/zsbd"
+    },
+    {
+        "chap": "Chương 702: Khi Tàn Diện nhìn về phía Thần Vực, sẽ phát sinh cái gì?",
+        "url": "/reader/quang-am-chi-ngoai-convert/qhre"
+    },
+    {
+        "chap": "Chương 703: Có người dùng ta một đoạn thời gian",
+        "url": "/reader/quang-am-chi-ngoai-convert/fyai"
+    },
+    {
+        "chap": "Chương 704: Lý Tự Hóa và Xích Mẫu",
+        "url": "/reader/quang-am-chi-ngoai-convert/hnjg"
+    },
+    {
+        "chap": "Chương 705: Hậu Thổ cùng Hoàng Thiên bí ẩn",
+        "url": "/reader/quang-am-chi-ngoai-convert/dtzh"
+    },
+    {
+        "chap": "Chương 706: Ngươi như thế nào không sớm một chút gọi người ta tới đây",
+        "url": "/reader/quang-am-chi-ngoai-convert/qwmn"
+    },
+    {
+        "chap": "Chương 707: Cự Anh công kích!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ruch"
+    },
+    {
+        "chap": "Chương 708: Ngươi dám đánh cha ta!",
+        "url": "/reader/quang-am-chi-ngoai-convert/bvka"
+    },
+    {
+        "chap": "Chương 709: Thời Không bên trong giao dịch",
+        "url": "/reader/quang-am-chi-ngoai-convert/ivne"
+    },
+    {
+        "chap": "Chương 710: Trong năm tháng ca dao",
+        "url": "/reader/quang-am-chi-ngoai-convert/pxwd"
+    },
+    {
+        "chap": "Chương 711: Tế Nguyệt ý nghĩa",
+        "url": "/reader/quang-am-chi-ngoai-convert/gjkl"
+    },
+    {
+        "chap": "Chương 712: Huynh đệ thủ túc, thể hiện thần thông",
+        "url": "/reader/quang-am-chi-ngoai-convert/zaju"
+    },
+    {
+        "chap": "Chương 713: Tàng trung tồn Thần (Thần trong Linh tàng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/aysq"
+    },
+    {
+        "chap": "Chương 714: Hứa Thanh Thần Linh thái",
+        "url": "/reader/quang-am-chi-ngoai-convert/ndah"
+    },
+    {
+        "chap": "Chương 715: Mời bệ hạ trả tiền ăn",
+        "url": "/reader/quang-am-chi-ngoai-convert/bpjt"
+    },
+    {
+        "chap": "Chương 716: Cùng ngươi trở lại Phong Hải Quận",
+        "url": "/reader/quang-am-chi-ngoai-convert/andl"
+    },
+    {
+        "chap": "Chương 717: Đêm Phong Hải người về",
+        "url": "/reader/quang-am-chi-ngoai-convert/wtoj"
+    },
+    {
+        "chap": "Chương 718: Chấp Kiếm Giả, ở đâu!",
+        "url": "/reader/quang-am-chi-ngoai-convert/phyz"
+    },
+    {
+        "chap": "Chương 719: Thanh Phong một khúc xuân ý đến",
+        "url": "/reader/quang-am-chi-ngoai-convert/dcxe"
+    },
+    {
+        "chap": "Chương 720: Chúng tinh thất quang, Nhật quyệt lui tránh.",
+        "url": "/reader/quang-am-chi-ngoai-convert/grcx"
+    },
+    {
+        "chap": "Chương 721: Vĩnh hưởng tiên phúc",
+        "url": "/reader/quang-am-chi-ngoai-convert/nmod"
+    },
+    {
+        "chap": "Chương 722: Hôm nay dưới ánh trăng, thấy phu quân",
+        "url": "/reader/quang-am-chi-ngoai-convert/nwlh"
+    },
+    {
+        "chap": "Chương 723: Trước cửa cùng gõ, cùng Quân một lòng",
+        "url": "/reader/quang-am-chi-ngoai-convert/kags"
+    },
+    {
+        "chap": "Chương 724: Hướng về Thái Dương vươn ra bàn tay",
+        "url": "/reader/quang-am-chi-ngoai-convert/vjge"
+    },
+    {
+        "chap": "Chương 725: Tịch kim tịch thử quận trung",
+        "url": "/reader/quang-am-chi-ngoai-convert/mnrh"
+    },
+    {
+        "chap": "Chương 726: Chủ. . . . Nghe lời. . . Ta",
+        "url": "/reader/quang-am-chi-ngoai-convert/fglo"
+    },
+    {
+        "chap": "Chương 727: Ta Ám Minh không",
+        "url": "/reader/quang-am-chi-ngoai-convert/civn"
+    },
+    {
+        "chap": "Chương 728: Phong Hải Quận câu cá",
+        "url": "/reader/quang-am-chi-ngoai-convert/mkha"
+    },
+    {
+        "chap": "Chương 729: Đưa cho Tổng Minh lễ vật",
+        "url": "/reader/quang-am-chi-ngoai-convert/tipc"
+    },
+    {
+        "chap": "Chương 730: Hứa Thanh, ngươi thật tàn nhẫn! !",
+        "url": "/reader/quang-am-chi-ngoai-convert/krpb"
+    },
+    {
+        "chap": "Chương 731: Kinh nghiệm phong phú cửu gia gia",
+        "url": "/reader/quang-am-chi-ngoai-convert/jlpq"
+    },
+    {
+        "chap": "Chương 732: Nhà ai tọa kỵ sắp trưởng thành",
+        "url": "/reader/quang-am-chi-ngoai-convert/qzrv"
+    },
+    {
+        "chap": "Chương 733: Hắc Thiên Tộc Thần Linh",
+        "url": "/reader/quang-am-chi-ngoai-convert/eqtm"
+    },
+    {
+        "chap": "Chương 734: Nóng giận mất khôn",
+        "url": "/reader/quang-am-chi-ngoai-convert/mcdg"
+    },
+    {
+        "chap": "Chương 735: Đâm trúng cột điện",
+        "url": "/reader/quang-am-chi-ngoai-convert/rtji"
+    },
+    {
+        "chap": "Chương 736, Tam Kiếm Trảm Thiên Lan",
+        "url": "/reader/quang-am-chi-ngoai-convert/zwfn"
+    },
+    {
+        "chap": "Chương 737: Thánh Lan có chủ!",
+        "url": "/reader/quang-am-chi-ngoai-convert/lmhx"
+    },
+    {
+        "chap": "Chương 738: Hứa Thanh, là đệ đệ của ngươi đi",
+        "url": "/reader/quang-am-chi-ngoai-convert/mjak"
+    },
+    {
+        "chap": "Chương 739: Thần Ân mênh mông",
+        "url": "/reader/quang-am-chi-ngoai-convert/srpw"
+    },
+    {
+        "chap": "Chương 740: Nhân Hoàng pháp chỉ",
+        "url": "/reader/quang-am-chi-ngoai-convert/etdh"
+    },
+    {
+        "chap": "Chương 741: Vẫn còn nước chảy giữa những bông hoa",
+        "url": "/reader/quang-am-chi-ngoai-convert/uigw"
+    },
+    {
+        "chap": "Chương 742: Người ung dung đi xa, đạo cùng nhật nguyệt trường",
+        "url": "/reader/quang-am-chi-ngoai-convert/csqt"
+    },
+    {
+        "chap": "Chương 743: Thái An quận, có đại hoạt",
+        "url": "/reader/quang-am-chi-ngoai-convert/qsjw"
+    },
+    {
+        "chap": "Chương 744: Tra nam Trần Nhị Ngưu (Đồ đểu, cặn bã)",
+        "url": "/reader/quang-am-chi-ngoai-convert/wyfe"
+    },
+    {
+        "chap": "Chương 745: Thất Thải Linh Hà Hoàng",
+        "url": "/reader/quang-am-chi-ngoai-convert/jnsf"
+    },
+    {
+        "chap": "Chương 746: Từng đã là Vọng Cổ đệ nhất vực",
+        "url": "/reader/quang-am-chi-ngoai-convert/omsw"
+    },
+    {
+        "chap": "Chương 747: Vọng Cổ cuối cùng một vị hạ tiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/hpne"
+    },
+    {
+        "chap": "Chương 748: Phong vân tế hội",
+        "url": "/reader/quang-am-chi-ngoai-convert/rvaz"
+    },
+    {
+        "chap": "Chương 749: Có mượn có trả",
+        "url": "/reader/quang-am-chi-ngoai-convert/kvcs"
+    },
+    {
+        "chap": "Chương 750: Đại Đế sống lại",
+        "url": "/reader/quang-am-chi-ngoai-convert/xsuy"
+    },
+    {
+        "chap": "Chương 751: Chấp Kiếm Đại Đế",
+        "url": "/reader/quang-am-chi-ngoai-convert/zxso"
+    },
+    {
+        "chap": "Chương 752: Mắng chửi quá nhiều, dứt khoát vô đề",
+        "url": "/reader/quang-am-chi-ngoai-convert/oczk"
+    },
+    {
+        "chap": "Chương 753: Hồng trần vong tình lâu",
+        "url": "/reader/quang-am-chi-ngoai-convert/cadw"
+    },
+    {
+        "chap": "Chương 754: Hồng Trần Phong Nguyệt tiên nhân túy",
+        "url": "/reader/quang-am-chi-ngoai-convert/kztd"
+    },
+    {
+        "chap": "Chương 755: Phong vẫn đao sát, thủy dật huyền mệnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/afct"
+    },
+    {
+        "chap": "Chương 756: Âm Dương Thủy Sát Âm Hồn Cục",
+        "url": "/reader/quang-am-chi-ngoai-convert/rpnh"
+    },
+    {
+        "chap": "Chương 757: Là ai đang chơi cờ",
+        "url": "/reader/quang-am-chi-ngoai-convert/ijdu"
+    },
+    {
+        "chap": "Chương 758: Tái ti nam chi xa, vi kỳ bất hoặc dã",
+        "url": "/reader/quang-am-chi-ngoai-convert/xmat"
+    },
+    {
+        "chap": "Chương 759: Có Tử Huyền, tâm không hoảng hốt",
+        "url": "/reader/quang-am-chi-ngoai-convert/pzth"
+    },
+    {
+        "chap": "Chương 760: Miếu đường Nhân tâm",
+        "url": "/reader/quang-am-chi-ngoai-convert/tocg"
+    },
+    {
+        "chap": "Chương 761: Nhân tộc sắc phong",
+        "url": "/reader/quang-am-chi-ngoai-convert/pmdw"
+    },
+    {
+        "chap": "Chương 762: Ngồi ở phía Đông, quan sát ngôi sao",
+        "url": "/reader/quang-am-chi-ngoai-convert/thol"
+    },
+    {
+        "chap": "Chương 763: Đến từ Cổ Hoàng tinh triệu hoán",
+        "url": "/reader/quang-am-chi-ngoai-convert/ehrs"
+    },
+    {
+        "chap": "Chương 764: Uổng công một hồi với gió Đông",
+        "url": "/reader/quang-am-chi-ngoai-convert/zkat"
+    },
+    {
+        "chap": "Chương 765: Lưng đeo Đế kiếm, hành tẩu nhân gian",
+        "url": "/reader/quang-am-chi-ngoai-convert/ofbx"
+    },
+    {
+        "chap": "Chương 766: Nghi thức thần bí bên trong Cổ Hoàng tinh",
+        "url": "/reader/quang-am-chi-ngoai-convert/qazn"
+    },
+    {
+        "chap": "Chương 767: Nhân tộc Thái Học",
+        "url": "/reader/quang-am-chi-ngoai-convert/zijv"
+    },
+    {
+        "chap": "Chương 768: Tuy không phải chuẩn tiên, nhưng là dị tiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/kxiy"
+    },
+    {
+        "chap": "Chương 769: Ân ngươi kiếp này, độ ngươi kiếp sau",
+        "url": "/reader/quang-am-chi-ngoai-convert/cnzf"
+    },
+    {
+        "chap": "Chương 770: Phong bạo bắt đầu",
+        "url": "/reader/quang-am-chi-ngoai-convert/awjb"
+    },
+    {
+        "chap": "Chương 771: Thự Quang mất trộm!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ejym"
+    },
+    {
+        "chap": "Chương 772: Một phương khác đánh cờ",
+        "url": "/reader/quang-am-chi-ngoai-convert/dqol"
+    },
+    {
+        "chap": "Chương 773: Nhân tộc Thái Tử hương",
+        "url": "/reader/quang-am-chi-ngoai-convert/pzab"
+    },
+    {
+        "chap": "Chương 774: Người chờ đợi mấy ngàn năm",
+        "url": "/reader/quang-am-chi-ngoai-convert/rxjp"
+    },
+    {
+        "chap": "Chương 775: Dị tiên gốc rễ",
+        "url": "/reader/quang-am-chi-ngoai-convert/mobi"
+    },
+    {
+        "chap": "Chương 776: Nhị Cẩu đạo hữu, ngươi quá đáng sợ",
+        "url": "/reader/quang-am-chi-ngoai-convert/zcbq"
+    },
+    {
+        "chap": "Chương 777: Dị Tiên Lưu muốn phát hỏa",
+        "url": "/reader/quang-am-chi-ngoai-convert/klvu"
+    },
+    {
+        "chap": "Chương 778: Ta liền đứng ở trước mặt ngươi",
+        "url": "/reader/quang-am-chi-ngoai-convert/xemo"
+    },
+    {
+        "chap": "Chương 779: Trăm vạn chi biến",
+        "url": "/reader/quang-am-chi-ngoai-convert/phiw"
+    },
+    {
+        "chap": "Chương 780: Dị tiên hồn chủng",
+        "url": "/reader/quang-am-chi-ngoai-convert/yend"
+    },
+    {
+        "chap": "Chương 781: Lời tiên đoán hai tháng sau",
+        "url": "/reader/quang-am-chi-ngoai-convert/snvc"
+    },
+    {
+        "chap": "Chương 782: Khai chi tán diệp",
+        "url": "/reader/quang-am-chi-ngoai-convert/vzjh"
+    },
+    {
+        "chap": "Chương 783: Dị Tiên Lưu bên trong, có tà sùng",
+        "url": "/reader/quang-am-chi-ngoai-convert/qnoe"
+    },
+    {
+        "chap": "Chương 784: Dung Thần chất vấn",
+        "url": "/reader/quang-am-chi-ngoai-convert/mlvh"
+    },
+    {
+        "chap": "Chương 785: Quả thứ hai tử sắc hồn chủng",
+        "url": "/reader/quang-am-chi-ngoai-convert/qoze"
+    },
+    {
+        "chap": "Chương 786: Hắn là dị tiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/wyql"
+    },
+    {
+        "chap": "Chương 787: Có làm trái Nhân Đạo",
+        "url": "/reader/quang-am-chi-ngoai-convert/abmu"
+    },
+    {
+        "chap": "Chương 788: Thanh lý môn hộ",
+        "url": "/reader/quang-am-chi-ngoai-convert/echg"
+    },
+    {
+        "chap": "Chương 789: Trước mặt thần linh không có bí ẩn",
+        "url": "/reader/quang-am-chi-ngoai-convert/gilc"
+    },
+    {
+        "chap": "Chương 790: Manh mối bất ngờ",
+        "url": "/reader/quang-am-chi-ngoai-convert/fcgl"
+    },
+    {
+        "chap": "Chương 791: Tập trung ngọn nguồn!",
+        "url": "/reader/quang-am-chi-ngoai-convert/lhkw"
+    },
+    {
+        "chap": "Chương 792: Thái Học luận đạo",
+        "url": "/reader/quang-am-chi-ngoai-convert/oxrq"
+    },
+    {
+        "chap": "Chương 793: Ê a!",
+        "url": "/reader/quang-am-chi-ngoai-convert/txcl"
+    },
+    {
+        "chap": "Chương 794: Cùng hắn vấn chuông, không bằng vấn kiếm",
+        "url": "/reader/quang-am-chi-ngoai-convert/hczg"
+    },
+    {
+        "chap": "Chương 795: Đế kiếm trảm hoàng tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/pqnk"
+    },
+    {
+        "chap": "Chương 796: Vật phẩm biểu diễn",
+        "url": "/reader/quang-am-chi-ngoai-convert/ecbg"
+    },
+    {
+        "chap": "Chương 797: Trăm vạn hồn ti mạn thương khung",
+        "url": "/reader/quang-am-chi-ngoai-convert/fdsw"
+    },
+    {
+        "chap": "Chương 798: Dị Tiên chi đỉnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/uqkd"
+    },
+    {
+        "chap": "Chương 799: Quận Thừa đại nhân, mời chỉ ra chỗ sai",
+        "url": "/reader/quang-am-chi-ngoai-convert/vuip"
+    },
+    {
+        "chap": "Chương 800: Vì Thần Linh hoa giới hạn",
+        "url": "/reader/quang-am-chi-ngoai-convert/yboa"
+    },
+    {
+        "chap": "Chương 801: Thần Vực đáp xuống",
+        "url": "/reader/quang-am-chi-ngoai-convert/gmtq"
+    },
+    {
+        "chap": "Chương 802:. Nhân Hoàng, mời chưởng mục",
+        "url": "/reader/quang-am-chi-ngoai-convert/uhix"
+    },
+    {
+        "chap": "Chương 803:. Hoa nở hoa tàn",
+        "url": "/reader/quang-am-chi-ngoai-convert/upev"
+    },
+    {
+        "chap": "Chương 804:. Đăng hỏa hoa nở",
+        "url": "/reader/quang-am-chi-ngoai-convert/gklb"
+    },
+    {
+        "chap": "Chương 805: Khô Viêm yêu pháp bản tôn đạo",
+        "url": "/reader/quang-am-chi-ngoai-convert/bufr"
+    },
+    {
+        "chap": "Chương 806: Hạ Tiên cung",
+        "url": "/reader/quang-am-chi-ngoai-convert/sqjk"
+    },
+    {
+        "chap": "Chương 807: Hạ Tiên chín vị!",
+        "url": "/reader/quang-am-chi-ngoai-convert/kgcj"
+    },
+    {
+        "chap": "Chương 808:. Đến từ Tiên Nguyên thu hoạch",
+        "url": "/reader/quang-am-chi-ngoai-convert/xycu"
+    },
+    {
+        "chap": "Chương 809: Vậy ngươi đã học xong chưa",
+        "url": "/reader/quang-am-chi-ngoai-convert/qrhy"
+    },
+    {
+        "chap": "Chương 810: Nhị Ngưu cố chấp",
+        "url": "/reader/quang-am-chi-ngoai-convert/vgmd"
+    },
+    {
+        "chap": "Chương 811: Một nãi đồng bào",
+        "url": "/reader/quang-am-chi-ngoai-convert/fagv"
+    },
+    {
+        "chap": "Chương 812: Cổ Việt Khánh Kỵ",
+        "url": "/reader/quang-am-chi-ngoai-convert/uocw"
+    },
+    {
+        "chap": "Chương 813: Thi hỏa liệu nguyên",
+        "url": "/reader/quang-am-chi-ngoai-convert/bedu"
+    },
+    {
+        "chap": "Chương 814: Huyết sắc huyền điểu",
+        "url": "/reader/quang-am-chi-ngoai-convert/gjmx"
+    },
+    {
+        "chap": "Chương 815: Gió đã thổi trước mặt Viêm Nguyệt Thần Linh",
+        "url": "/reader/quang-am-chi-ngoai-convert/nfsk"
+    },
+    {
+        "chap": "Chương 816: Không bằng Ngôn Ngôn",
+        "url": "/reader/quang-am-chi-ngoai-convert/cojr"
+    },
+    {
+        "chap": "Chương 817: Viêm Nguyệt hành trình",
+        "url": "/reader/quang-am-chi-ngoai-convert/ihzp"
+    },
+    {
+        "chap": "Chương 818: Tiểu A Thanh, ngươi đang làm gì vậy?",
+        "url": "/reader/quang-am-chi-ngoai-convert/nchj"
+    },
+    {
+        "chap": "Chương 819: Cửu tức phục khí",
+        "url": "/reader/quang-am-chi-ngoai-convert/ohnu"
+    },
+    {
+        "chap": "Chương 820:. Đệ nhất ngọn núi",
+        "url": "/reader/quang-am-chi-ngoai-convert/hfpn"
+    },
+    {
+        "chap": "Chương 821: Huyền Thiên tướng",
+        "url": "/reader/quang-am-chi-ngoai-convert/flun"
+    },
+    {
+        "chap": "Chương 822: Xin cho phép đoàn tụ",
+        "url": "/reader/quang-am-chi-ngoai-convert/eqgz"
+    },
+    {
+        "chap": "Chương 823: Hắn là của ta",
+        "url": "/reader/quang-am-chi-ngoai-convert/tcpz"
+    },
+    {
+        "chap": "Chương 824: Như dê như ma",
+        "url": "/reader/quang-am-chi-ngoai-convert/gsqp"
+    },
+    {
+        "chap": "Chương 825: Lần này là Tinh Viêm thần sứ",
+        "url": "/reader/quang-am-chi-ngoai-convert/euyg"
+    },
+    {
+        "chap": "Chương 826: Minh Nam thế tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/cfat"
+    },
+    {
+        "chap": "Chương 827: Đây mới là Hứa Thanh",
+        "url": "/reader/quang-am-chi-ngoai-convert/dhba"
+    },
+    {
+        "chap": "Chương 828: Cái gì gọi là toàn bộ",
+        "url": "/reader/quang-am-chi-ngoai-convert/vxmy"
+    },
+    {
+        "chap": "Chương 829: Sinh Tử Môn",
+        "url": "/reader/quang-am-chi-ngoai-convert/svgu"
+    },
+    {
+        "chap": "Chương 830:. Vận rủi cùng lãng quên",
+        "url": "/reader/quang-am-chi-ngoai-convert/gphl"
+    },
+    {
+        "chap": "Chương 831: Xấu hổ, quấy rầy",
+        "url": "/reader/quang-am-chi-ngoai-convert/vnto"
+    },
+    {
+        "chap": "Chương 832: Đại Ngũ Ngưu Đại Vô Tình đạo",
+        "url": "/reader/quang-am-chi-ngoai-convert/rcht"
+    },
+    {
+        "chap": "Chương 833: Bản Điện chờ hắn tới kéo xe",
+        "url": "/reader/quang-am-chi-ngoai-convert/qwjc"
+    },
+    {
+        "chap": "Chương 834: Ba mươi sáu Tiên Cương",
+        "url": "/reader/quang-am-chi-ngoai-convert/jemb"
+    },
+    {
+        "chap": "Chương 835: Đỉnh phong quyết đấu",
+        "url": "/reader/quang-am-chi-ngoai-convert/enzy"
+    },
+    {
+        "chap": "Chương 836: Cảm ơn",
+        "url": "/reader/quang-am-chi-ngoai-convert/yxqw"
+    },
+    {
+        "chap": "Chương 837: Hồi thiên phản nhật",
+        "url": "/reader/quang-am-chi-ngoai-convert/jdos"
+    },
+    {
+        "chap": "Chương 838: Chú thuật, Cấm thuật, Thần thuật",
+        "url": "/reader/quang-am-chi-ngoai-convert/faeo"
+    },
+    {
+        "chap": "Chương 839: Tôn nghiêm không thể đổi được hòa bình",
+        "url": "/reader/quang-am-chi-ngoai-convert/ohui"
+    },
+    {
+        "chap": "Chương 840:. Thủ lĩnh chi tranh",
+        "url": "/reader/quang-am-chi-ngoai-convert/zjqk"
+    },
+    {
+        "chap": "Chương 841: Cẩn thận có lừa dối",
+        "url": "/reader/quang-am-chi-ngoai-convert/iyal"
+    },
+    {
+        "chap": "Chương 842: Tiểu hữu chớ xúc động, chuyện gì cũng từ từ",
+        "url": "/reader/quang-am-chi-ngoai-convert/tskf"
+    },
+    {
+        "chap": "Chương 843: Khinh nhờn Thần Linh đệ tứ tôn pho tượng",
+        "url": "/reader/quang-am-chi-ngoai-convert/rtbu"
+    },
+    {
+        "chap": "Chương 844: Thần Sơn tộc kỳ",
+        "url": "/reader/quang-am-chi-ngoai-convert/byik"
+    },
+    {
+        "chap": "Chương 845: Đang tha hương ở đất khách",
+        "url": "/reader/quang-am-chi-ngoai-convert/ltbc"
+    },
+    {
+        "chap": "Chương 846: Chuyên nghiệp",
+        "url": "/reader/quang-am-chi-ngoai-convert/zikx"
+    },
+    {
+        "chap": "Chương 847: Linh tàng chi lộ",
+        "url": "/reader/quang-am-chi-ngoai-convert/rywb"
+    },
+    {
+        "chap": "Chương 848: Tiếp tục là Hoàng hôn",
+        "url": "/reader/quang-am-chi-ngoai-convert/jxzy"
+    },
+    {
+        "chap": "Chương 849: Nhân tộc đại Thiên Kiêu",
+        "url": "/reader/quang-am-chi-ngoai-convert/yfvk"
+    },
+    {
+        "chap": "Chương 850:. Tử Chủ đến thế gian",
+        "url": "/reader/quang-am-chi-ngoai-convert/uxtp"
+    },
+    {
+        "chap": "Chương 851: Thần Sơn tao âm",
+        "url": "/reader/quang-am-chi-ngoai-convert/tpmb"
+    },
+    {
+        "chap": "Chương 852: Một hồi, sẽ không đau đớn",
+        "url": "/reader/quang-am-chi-ngoai-convert/qacz"
+    },
+    {
+        "chap": "Cự tuyệt pháo hôi vận mệnh, hưởng thụ độc giả nhân sinh (thượng)",
+        "url": "/reader/quang-am-chi-ngoai-convert/aged"
+    },
+    {
+        "chap": "Chương 853: Sơn Hải đại vực",
+        "url": "/reader/quang-am-chi-ngoai-convert/btao"
+    },
+    {
+        "chap": "Chương 854: Săn lùng Hứa Thanh",
+        "url": "/reader/quang-am-chi-ngoai-convert/zwkm"
+    },
+    {
+        "chap": "Chương 855: Hư hư thực thực đệ tứ Thần",
+        "url": "/reader/quang-am-chi-ngoai-convert/pnkh"
+    },
+    {
+        "chap": "Chương 856: Đằng đằng sát khí",
+        "url": "/reader/quang-am-chi-ngoai-convert/tymv"
+    },
+    {
+        "chap": "Chương 857: Đưa đến Cửu Lê",
+        "url": "/reader/quang-am-chi-ngoai-convert/udgc"
+    },
+    {
+        "chap": "Chương 858: Cửu Lê sương xám",
+        "url": "/reader/quang-am-chi-ngoai-convert/vhdp"
+    },
+    {
+        "chap": "Chương 859: Thâm trạch bên dưới",
+        "url": "/reader/quang-am-chi-ngoai-convert/xfwz"
+    },
+    {
+        "chap": "Chương 860:. Huyền Thiên Đại Vu",
+        "url": "/reader/quang-am-chi-ngoai-convert/rmnu"
+    },
+    {
+        "chap": "Chương 861: Bí ẩn bị Thần Linh che đậy",
+        "url": "/reader/quang-am-chi-ngoai-convert/slft"
+    },
+    {
+        "chap": "Chương 862: Táng ca chi danh: Phản bội",
+        "url": "/reader/quang-am-chi-ngoai-convert/jyus"
+    },
+    {
+        "chap": "Chương 863: Hạt Bụi Lịch Sử",
+        "url": "/reader/quang-am-chi-ngoai-convert/jtnv"
+    },
+    {
+        "chap": "Ngoại truyện : Cự tuyệt kiếp làm pháo hôi, hưởng thụ cuộc sống của độc giả (hạ)",
+        "url": "/reader/quang-am-chi-ngoai-convert/epbf"
+    },
+    {
+        "chap": "Chương 864: Đầu lâu thứ chín!",
+        "url": "/reader/quang-am-chi-ngoai-convert/rwje"
+    },
+    {
+        "chap": "Chương 865: Thân ảnh trong núi tro cốt",
+        "url": "/reader/quang-am-chi-ngoai-convert/mjeu"
+    },
+    {
+        "chap": "Chương 866: Đệ Ngũ bí tàng: Vu tàng",
+        "url": "/reader/quang-am-chi-ngoai-convert/pmht"
+    },
+    {
+        "chap": "Chương 867: Mục tiêu: Tịch Đông Tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/xfsy"
+    },
+    {
+        "chap": "Chương 868: Chờ ngươi đến chiến",
+        "url": "/reader/quang-am-chi-ngoai-convert/hjcv"
+    },
+    {
+        "chap": "CHƯƠNG 869: GẶP PHẢI HUNG THẦN.",
+        "url": "/reader/quang-am-chi-ngoai-convert/hcit"
+    },
+    {
+        "chap": "Chương 870: Quân lâm",
+        "url": "/reader/quang-am-chi-ngoai-convert/skqz"
+    },
+    {
+        "chap": "Chương 871: Ngóc đầu trở lại",
+        "url": "/reader/quang-am-chi-ngoai-convert/zinq"
+    },
+    {
+        "chap": "Chương 872: Thêm một roi nữa sẽ chết",
+        "url": "/reader/quang-am-chi-ngoai-convert/iuow"
+    },
+    {
+        "chap": "Chương 873: Trấn áp tại Vu Tàng đại địa bên trong",
+        "url": "/reader/quang-am-chi-ngoai-convert/zbms"
+    },
+    {
+        "chap": "Chương 874: Người cuối cùng",
+        "url": "/reader/quang-am-chi-ngoai-convert/erck"
+    },
+    {
+        "chap": "Chương 875: Cửu Lê nhập thế!",
+        "url": "/reader/quang-am-chi-ngoai-convert/grhb"
+    },
+    {
+        "chap": "Chương 876: Thần Linh ngầm đồng ý",
+        "url": "/reader/quang-am-chi-ngoai-convert/nyfp"
+    },
+    {
+        "chap": "Chương 877: Thần Vực Vô chủ",
+        "url": "/reader/quang-am-chi-ngoai-convert/emaq"
+    },
+    {
+        "chap": "Chương 878: Tiểu Yến Tử, mặc quần áo hoa",
+        "url": "/reader/quang-am-chi-ngoai-convert/lsop"
+    },
+    {
+        "chap": "Chương 879: Thần Vực Nguyên Thủy.",
+        "url": "/reader/quang-am-chi-ngoai-convert/jaul"
+    },
+    {
+        "chap": "Chương 880:. Tan vỡ chi mục",
+        "url": "/reader/quang-am-chi-ngoai-convert/gjck"
+    },
+    {
+        "chap": "Chương 881: Trai già ngậm châu",
+        "url": "/reader/quang-am-chi-ngoai-convert/wjbc"
+    },
+    {
+        "chap": "Chương 882: Mộng bức lão gia gia",
+        "url": "/reader/quang-am-chi-ngoai-convert/xrwt"
+    },
+    {
+        "chap": "Chương 883: Tổ Đế chi lăng",
+        "url": "/reader/quang-am-chi-ngoai-convert/louh"
+    },
+    {
+        "chap": "Chương 884: Pho tượng Bái Nguyệt",
+        "url": "/reader/quang-am-chi-ngoai-convert/aebk"
+    },
+    {
+        "chap": "Phiên ngoại thiên Càn khôn vị định tiên nghịch, sơn hải nhất diệp thần hành.",
+        "url": "/reader/quang-am-chi-ngoai-convert/fpnd"
+    },
+    {
+        "chap": "Phiên ngoại thiên Càn Khôn định vị Tiên nghịch, Sơn hải nhất diệp thần hành (Phần 2)",
+        "url": "/reader/quang-am-chi-ngoai-convert/tnbe"
+    },
+    {
+        "chap": "Chương 885: Thần tàng nhiên đăng",
+        "url": "/reader/quang-am-chi-ngoai-convert/yjql"
+    },
+    {
+        "chap": "Chương 886: Bí tàng Ngũ Môn",
+        "url": "/reader/quang-am-chi-ngoai-convert/qzge"
+    },
+    {
+        "chap": "Chương 887: Điểm Tử Trát Thủ ( Địch nhân khó giải quyết )",
+        "url": "/reader/quang-am-chi-ngoai-convert/qygi"
+    },
+    {
+        "chap": "Chương 888: Bắc Tuế Thanh Mộc.",
+        "url": "/reader/quang-am-chi-ngoai-convert/tnqg"
+    },
+    {
+        "chap": "Chương 889: Hoàn mỹ cơ thể sống",
+        "url": "/reader/quang-am-chi-ngoai-convert/lkwf"
+    },
+    {
+        "chap": "Chương 890:. Thần chi ngũ uế",
+        "url": "/reader/quang-am-chi-ngoai-convert/ljze"
+    },
+    {
+        "chap": "Chương 891: Đường này không chết",
+        "url": "/reader/quang-am-chi-ngoai-convert/dxab"
+    },
+    {
+        "chap": "Chương 892: Không Muộn, Ta Tới Đăng Tràng.",
+        "url": "/reader/quang-am-chi-ngoai-convert/tvwn"
+    },
+    {
+        "chap": "Chương 893: Trăm tàu tranh lưu",
+        "url": "/reader/quang-am-chi-ngoai-convert/yefq"
+    },
+    {
+        "chap": "Chương 894: Ngươi tới đây a",
+        "url": "/reader/quang-am-chi-ngoai-convert/ezty"
+    },
+    {
+        "chap": "Chương 895: Thự Quang liệt phong",
+        "url": "/reader/quang-am-chi-ngoai-convert/rzsd"
+    },
+    {
+        "chap": "Chương 896: Thời gian bên trong hứa hẹn",
+        "url": "/reader/quang-am-chi-ngoai-convert/lopb"
+    },
+    {
+        "chap": "Chương 897: Đăng đắc thai lai! (Lên sân khấu)",
+        "url": "/reader/quang-am-chi-ngoai-convert/gynx"
+    },
+    {
+        "chap": "Chương 898: Chân Hỏa, Nghiệp Hỏa, kiếp hỏa, Hoàn mỹ",
+        "url": "/reader/quang-am-chi-ngoai-convert/ropt"
+    },
+    {
+        "chap": "Chương 899: Ta, không hối hận !",
+        "url": "/reader/quang-am-chi-ngoai-convert/pbug"
+    },
+    {
+        "chap": "Chương 900:. Vạn nhất thành thì sao",
+        "url": "/reader/quang-am-chi-ngoai-convert/orym"
+    },
+    {
+        "chap": "Chương 901:. Cuối cùng đạp Quy Hư!",
+        "url": "/reader/quang-am-chi-ngoai-convert/pksf"
+    },
+    {
+        "chap": "Chương 902: Chúng Thần hiện",
+        "url": "/reader/quang-am-chi-ngoai-convert/nlbm"
+    },
+    {
+        "chap": "Chương 903: Thần bí chi tu",
+        "url": "/reader/quang-am-chi-ngoai-convert/zsup"
+    },
+    {
+        "chap": "Chương 904:. Đây mới là siêu cấp đại sự tình",
+        "url": "/reader/quang-am-chi-ngoai-convert/hdzi"
+    },
+    {
+        "chap": "Chương 905:. Hai cu cháu dốc sức liều mạng",
+        "url": "/reader/quang-am-chi-ngoai-convert/niuh"
+    },
+    {
+        "chap": "Chương 906:. Ta còn muốn nữa!",
+        "url": "/reader/quang-am-chi-ngoai-convert/rgft"
+    },
+    {
+        "chap": "Chương 907: Cuối cùng đòn sát thủ!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ocgf"
+    },
+    {
+        "chap": "Chương 908:. Vùng đất bị bỏ hoang",
+        "url": "/reader/quang-am-chi-ngoai-convert/nqfr"
+    },
+    {
+        "chap": "Chương 909:. Thánh Địa chi tu",
+        "url": "/reader/quang-am-chi-ngoai-convert/ckhd"
+    },
+    {
+        "chap": "Chương 910:. Viêm Nguyệt Đại Huyền thiên!",
+        "url": "/reader/quang-am-chi-ngoai-convert/yxvs"
+    },
+    {
+        "chap": "Chương 911: Hứa Thanh chi lộ",
+        "url": "/reader/quang-am-chi-ngoai-convert/rbum"
+    },
+    {
+        "chap": "Chương 912: Thần thông kẽ hở",
+        "url": "/reader/quang-am-chi-ngoai-convert/cily"
+    },
+    {
+        "chap": "Chương 913: Ta sẽ liên tục vô địch",
+        "url": "/reader/quang-am-chi-ngoai-convert/ecmp"
+    },
+    {
+        "chap": "Chương 914: Chủ nợ thức tỉnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/tjmf"
+    },
+    {
+        "chap": "Chương 915: Đa nghi Phong đạo hữu cùng hai cái lão Lục",
+        "url": "/reader/quang-am-chi-ngoai-convert/jtyn"
+    },
+    {
+        "chap": "Chương 916: Thanh Ngưu đạp gió",
+        "url": "/reader/quang-am-chi-ngoai-convert/dmyo"
+    },
+    {
+        "chap": "Chương 917: Chân giới chi linh",
+        "url": "/reader/quang-am-chi-ngoai-convert/uojh"
+    },
+    {
+        "chap": "Chương 918: Tiểu sư đệ, mặc kệ ta, ngươi đi mau!",
+        "url": "/reader/quang-am-chi-ngoai-convert/kdqm"
+    },
+    {
+        "chap": "Chương 919: Càng muốn cùng lão Lục đồng hành (bổ sung)",
+        "url": "/reader/quang-am-chi-ngoai-convert/xeqn"
+    },
+    {
+        "chap": "Chương 920:. Liêu Huyền ba cái bán nhân hành",
+        "url": "/reader/quang-am-chi-ngoai-convert/ypkr"
+    },
+    {
+        "chap": "Chương 921: Toàn Huyết Liêu Huyền",
+        "url": "/reader/quang-am-chi-ngoai-convert/iazx"
+    },
+    {
+        "chap": "Chương 922: Mỗi người đều có mục đích riêng (bổ sung)",
+        "url": "/reader/quang-am-chi-ngoai-convert/juiv"
+    },
+    {
+        "chap": "Chương 923: Hơi mỏng một tầng",
+        "url": "/reader/quang-am-chi-ngoai-convert/vtjf"
+    },
+    {
+        "chap": "Chương 924: Ai là Hoàng Tước!",
+        "url": "/reader/quang-am-chi-ngoai-convert/nzfq"
+    },
+    {
+        "chap": "Chương 925: Mọi người cùng nhau xông lên!",
+        "url": "/reader/quang-am-chi-ngoai-convert/iemz"
+    },
+    {
+        "chap": "Chương 926: Chính thức phía sau màn",
+        "url": "/reader/quang-am-chi-ngoai-convert/wulb"
+    },
+    {
+        "chap": "Chương 927: Đức La Tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/tkiy"
+    },
+    {
+        "chap": "Chương 928: Thanh Ngưu trở về",
+        "url": "/reader/quang-am-chi-ngoai-convert/qkpw"
+    },
+    {
+        "chap": "Chương 929: Trấn Thương Vương!",
+        "url": "/reader/quang-am-chi-ngoai-convert/tjhx"
+    },
+    {
+        "chap": "Chương 930:. Trăm ngày Đấu chỉ ất minh thời điểm",
+        "url": "/reader/quang-am-chi-ngoai-convert/xbav"
+    },
+    {
+        "chap": "Chương 931: Đón gió chờ nguyệt",
+        "url": "/reader/quang-am-chi-ngoai-convert/atyr"
+    },
+    {
+        "chap": "Chương 932 Thanh bào tiểu tướng mới lên ngựa( bổ )",
+        "url": "/reader/quang-am-chi-ngoai-convert/ymho"
+    },
+    {
+        "chap": "Chương 933: Tiên Linh tự khiết",
+        "url": "/reader/quang-am-chi-ngoai-convert/zcts"
+    },
+    {
+        "chap": "Chương 934: Phụng chỉ trang bức",
+        "url": "/reader/quang-am-chi-ngoai-convert/qrwc"
+    },
+    {
+        "chap": "Chương 935: Xúc Lam Vương rắp tâm",
+        "url": "/reader/quang-am-chi-ngoai-convert/xvpy"
+    },
+    {
+        "chap": "Chương 936: Mạch nước ngầm tái khởi",
+        "url": "/reader/quang-am-chi-ngoai-convert/uljp"
+    },
+    {
+        "chap": "Chương 937: Nghe thấy thanh sắc biến",
+        "url": "/reader/quang-am-chi-ngoai-convert/orsj"
+    },
+    {
+        "chap": "Chương 938: Đến từ Tử Thanh lễ vật",
+        "url": "/reader/quang-am-chi-ngoai-convert/xvac"
+    },
+    {
+        "chap": "Chương 939: Hướng về Thánh uy điển",
+        "url": "/reader/quang-am-chi-ngoai-convert/iqcx"
+    },
+    {
+        "chap": "Chương 940:. Kinh thiên kịch biến!",
+        "url": "/reader/quang-am-chi-ngoai-convert/uzmt"
+    },
+    {
+        "chap": "Chương 941: Còn gì nữa không?",
+        "url": "/reader/quang-am-chi-ngoai-convert/kylo"
+    },
+    {
+        "chap": "Chương 942: Đem!",
+        "url": "/reader/quang-am-chi-ngoai-convert/lcpw"
+    },
+    {
+        "chap": "Chương 943: Kiếm trảm thần đàn",
+        "url": "/reader/quang-am-chi-ngoai-convert/ztbm"
+    },
+    {
+        "chap": "Chương 944: Trong lửa lấy đăng",
+        "url": "/reader/quang-am-chi-ngoai-convert/mzqc"
+    },
+    {
+        "chap": "Chương 945: Bước đầu tiên hoàn thành",
+        "url": "/reader/quang-am-chi-ngoai-convert/rsnd"
+    },
+    {
+        "chap": "Chương 946: Thôn Thiên bốn tôn",
+        "url": "/reader/quang-am-chi-ngoai-convert/ydbi"
+    },
+    {
+        "chap": "Chương 947: Gia trưởng",
+        "url": "/reader/quang-am-chi-ngoai-convert/licu"
+    },
+    {
+        "chap": "Chương 948: Ta hoa nở sau trăm hoa sát",
+        "url": "/reader/quang-am-chi-ngoai-convert/ophq"
+    },
+    {
+        "chap": "Chương 949: Nữ Đế",
+        "url": "/reader/quang-am-chi-ngoai-convert/hypf"
+    },
+    {
+        "chap": "Chương 950:. Phục duy thượng hưởng",
+        "url": "/reader/quang-am-chi-ngoai-convert/lomd"
+    },
+    {
+        "chap": "Chương 951: Trẫm, một người gánh chịu!",
+        "url": "/reader/quang-am-chi-ngoai-convert/bnze"
+    },
+    {
+        "chap": "Chương 952: Bình minh cùng đêm tối",
+        "url": "/reader/quang-am-chi-ngoai-convert/gtof"
+    },
+    {
+        "chap": "Chương 953: Nhân tộc Thiên Đạo thức tỉnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/ixlu"
+    },
+    {
+        "chap": "Chương 954: Thần lâm",
+        "url": "/reader/quang-am-chi-ngoai-convert/bqlr"
+    },
+    {
+        "chap": "Chương 955: Tìm chết, liền tới!",
+        "url": "/reader/quang-am-chi-ngoai-convert/kxfi"
+    },
+    {
+        "chap": "Chương 956: Ta hậu thế đỉnh, vấn Tiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/hiko"
+    },
+    {
+        "chap": "Chương 957: Hà tất lý do",
+        "url": "/reader/quang-am-chi-ngoai-convert/gjeb"
+    },
+    {
+        "chap": "Chương 958: Kiếm lên",
+        "url": "/reader/quang-am-chi-ngoai-convert/vzfb"
+    },
+    {
+        "chap": "Chương 959: Đại Đế!",
+        "url": "/reader/quang-am-chi-ngoai-convert/lezu"
+    },
+    {
+        "chap": "Chương 960:. Nhân quả đã đứt",
+        "url": "/reader/quang-am-chi-ngoai-convert/mcze"
+    },
+    {
+        "chap": "Chương 961: Hoàng hôn chiếu nhân tâm, mặt trời chiếu Vọng Cổ",
+        "url": "/reader/quang-am-chi-ngoai-convert/mceg"
+    },
+    {
+        "chap": "Chương 962: Nữ Đế Tru Thần",
+        "url": "/reader/quang-am-chi-ngoai-convert/deha"
+    },
+    {
+        "chap": "Chương 963: Tử cùng Thanh",
+        "url": "/reader/quang-am-chi-ngoai-convert/votp"
+    },
+    {
+        "chap": "Chương 964: Thời gian bên ngoài",
+        "url": "/reader/quang-am-chi-ngoai-convert/ylda"
+    },
+    {
+        "chap": "Chương 965: Bên trong có sét đánh, Lôi Thần ẩn danh",
+        "url": "/reader/quang-am-chi-ngoai-convert/mysl"
+    },
+    {
+        "chap": "Chương 966: Vọng Cổ sơ Đại hoàng",
+        "url": "/reader/quang-am-chi-ngoai-convert/ehmx"
+    },
+    {
+        "chap": "Chương 967: Thức tỉnh về sau",
+        "url": "/reader/quang-am-chi-ngoai-convert/eboq"
+    },
+    {
+        "chap": "Chương 968: Tình yêu ngọn lửa nhỏ",
+        "url": "/reader/quang-am-chi-ngoai-convert/vpnt"
+    },
+    {
+        "chap": "Chương 969: Thiên biến!",
+        "url": "/reader/quang-am-chi-ngoai-convert/zxky"
+    },
+    {
+        "chap": "Chương 970:. Đệ Ngũ thần quyền!",
+        "url": "/reader/quang-am-chi-ngoai-convert/qyfh"
+    },
+    {
+        "chap": "Chương 971: Sạch sẽ",
+        "url": "/reader/quang-am-chi-ngoai-convert/iqbx"
+    },
+    {
+        "chap": "Chương 972: Tà Sinh Thánh Địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/grks"
+    },
+    {
+        "chap": "Chương 973: Thái Dương nhạc sư",
+        "url": "/reader/quang-am-chi-ngoai-convert/qlwe"
+    },
+    {
+        "chap": "Chương 974: Thiên tiêu nghênh nguyệt",
+        "url": "/reader/quang-am-chi-ngoai-convert/unod"
+    },
+    {
+        "chap": "Chương 975: Tiếp theo tấu nhạc",
+        "url": "/reader/quang-am-chi-ngoai-convert/ufib"
+    },
+    {
+        "chap": "Chương 976: Ta đổi chủ ý",
+        "url": "/reader/quang-am-chi-ngoai-convert/tcwe"
+    },
+    {
+        "chap": "Chương 977: Ngàn dặm Minh vực",
+        "url": "/reader/quang-am-chi-ngoai-convert/hdys"
+    },
+    {
+        "chap": "Chương 978: Như thần giáng trần",
+        "url": "/reader/quang-am-chi-ngoai-convert/oxnb"
+    },
+    {
+        "chap": "Chương 979: Một kiếm lạc, hồn sụp thân bại!",
+        "url": "/reader/quang-am-chi-ngoai-convert/tyqv"
+    },
+    {
+        "chap": "Chương 980:. Chúa Tể quyền hành",
+        "url": "/reader/quang-am-chi-ngoai-convert/xdqg"
+    },
+    {
+        "chap": "Chương 981: Đi tới long liễn",
+        "url": "/reader/quang-am-chi-ngoai-convert/euqv"
+    },
+    {
+        "chap": "Chương 982: Thời gian biên giới",
+        "url": "/reader/quang-am-chi-ngoai-convert/jqfz"
+    },
+    {
+        "chap": "Chương 983: Gió thổi Cấm hải",
+        "url": "/reader/quang-am-chi-ngoai-convert/jwrc"
+    },
+    {
+        "chap": "Chương 984: Cuồng phong tới!",
+        "url": "/reader/quang-am-chi-ngoai-convert/npfy"
+    },
+    {
+        "chap": "Chương 985: Cấm hải thiên biến!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ndqc"
+    },
+    {
+        "chap": "Chương 986: Đông bộ Thần chỉ",
+        "url": "/reader/quang-am-chi-ngoai-convert/dktv"
+    },
+    {
+        "chap": "Chương 987: Phù Tà áp lực",
+        "url": "/reader/quang-am-chi-ngoai-convert/kmax"
+    },
+    {
+        "chap": "Chương 988: Phù Tà tan vỡ",
+        "url": "/reader/quang-am-chi-ngoai-convert/bivk"
+    },
+    {
+        "chap": "Chương 989: Kể chuyện xưa Thần Linh",
+        "url": "/reader/quang-am-chi-ngoai-convert/naik"
+    },
+    {
+        "chap": "Chương 990:. Hiện tại, ta là thợ săn",
+        "url": "/reader/quang-am-chi-ngoai-convert/qcaj"
+    },
+    {
+        "chap": "Chương 991: Hôm nay, tất cả chúng sinh đều đứng ra vì hắn.",
+        "url": "/reader/quang-am-chi-ngoai-convert/gqva"
+    },
+    {
+        "chap": "Chương 992: Tà Sinh diệt tộc",
+        "url": "/reader/quang-am-chi-ngoai-convert/lnaj"
+    },
+    {
+        "chap": "Chương 993: Săn giết thời khắc",
+        "url": "/reader/quang-am-chi-ngoai-convert/dexh"
+    },
+    {
+        "chap": "Chương 994: Luyện hóa Phù Tà",
+        "url": "/reader/quang-am-chi-ngoai-convert/zhlr"
+    },
+    {
+        "chap": "Chương 995: Thực quang Thần Linh",
+        "url": "/reader/quang-am-chi-ngoai-convert/mhit"
+    },
+    {
+        "chap": "Chương 996: Diễn lại thần thoại",
+        "url": "/reader/quang-am-chi-ngoai-convert/jeng"
+    },
+    {
+        "chap": "Chương 997: Nhật du tuần giới",
+        "url": "/reader/quang-am-chi-ngoai-convert/nagx"
+    },
+    {
+        "chap": "Chương 998: Ngọc Lưu Trần nhân tình",
+        "url": "/reader/quang-am-chi-ngoai-convert/wdvg"
+    },
+    {
+        "chap": "Chương 999: Quỷ dị hải ngoại",
+        "url": "/reader/quang-am-chi-ngoai-convert/szag"
+    },
+    {
+        "chap": "Chương 1000:. Khẩn trương, hối hận, tâm mệt mỏi",
+        "url": "/reader/quang-am-chi-ngoai-convert/mnuz"
+    },
+    {
+        "chap": "Chương 1001: Người Thần bí trong cơ thể Tuê Khư",
+        "url": "/reader/quang-am-chi-ngoai-convert/tmyw"
+    },
+    {
+        "chap": "Chương 1002: Các ngươi cái này nhất giới. . . . .",
+        "url": "/reader/quang-am-chi-ngoai-convert/ljae"
+    },
+    {
+        "chap": "Chương 1003: Đệ Ngũ tinh hoàn",
+        "url": "/reader/quang-am-chi-ngoai-convert/qhkr"
+    },
+    {
+        "chap": "Chương 1004: Một nơi có thể không tồn tại.",
+        "url": "/reader/quang-am-chi-ngoai-convert/kenu"
+    },
+    {
+        "chap": "Chương 1005: Hắn ứng với Chân Thần",
+        "url": "/reader/quang-am-chi-ngoai-convert/bzxg"
+    },
+    {
+        "chap": "Chương 1006: Thánh Địa khai chiến",
+        "url": "/reader/quang-am-chi-ngoai-convert/mngo"
+    },
+    {
+        "chap": "Chương 1007: Hắn tự xưng Viêm Huyền Tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/qacn"
+    },
+    {
+        "chap": "Chương 1008: Những năm đó, những người đó",
+        "url": "/reader/quang-am-chi-ngoai-convert/oifw"
+    },
+    {
+        "chap": "Chương 1009: Chế tạo tối cường đại dực",
+        "url": "/reader/quang-am-chi-ngoai-convert/ondi"
+    },
+    {
+        "chap": "Chương 1010: Thánh Thiên bảo tháp",
+        "url": "/reader/quang-am-chi-ngoai-convert/fawn"
+    },
+    {
+        "chap": "Chương 1011: Linh Âm dung mai",
+        "url": "/reader/quang-am-chi-ngoai-convert/qufp"
+    },
+    {
+        "chap": "Chương 1012: Tinh lọc cấm địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/mjoi"
+    },
+    {
+        "chap": "Chương 1013: Linh Âm tân chủ",
+        "url": "/reader/quang-am-chi-ngoai-convert/kjop"
+    },
+    {
+        "chap": "Chương 1014: Công bằng giao dịch",
+        "url": "/reader/quang-am-chi-ngoai-convert/rmdt"
+    },
+    {
+        "chap": "Chương 1015: Nữ Đế truyền gọi",
+        "url": "/reader/quang-am-chi-ngoai-convert/bxsr"
+    },
+    {
+        "chap": "Chương 1016: Ngươi xem ta vài phần giống như trước",
+        "url": "/reader/quang-am-chi-ngoai-convert/yibq"
+    },
+    {
+        "chap": "Chương 1017: Vô cùng trung thành Phong Lâm Đào",
+        "url": "/reader/quang-am-chi-ngoai-convert/phkf"
+    },
+    {
+        "chap": "Chương 1018: Mồi câu tự chế",
+        "url": "/reader/quang-am-chi-ngoai-convert/jywp"
+    },
+    {
+        "chap": "Chương 1019: Thảm, thảm, thảm!",
+        "url": "/reader/quang-am-chi-ngoai-convert/dmpk"
+    },
+    {
+        "chap": "Chương1020: Đem ưu điểm biến thành nhược điểm",
+        "url": "/reader/quang-am-chi-ngoai-convert/ysqn"
+    },
+    {
+        "chap": "Chương 1021: Như vậy nghe lời a",
+        "url": "/reader/quang-am-chi-ngoai-convert/kobl"
+    },
+    {
+        "chap": "Chương 1022: Tiên Thuật: Lục tặc vọng sinh",
+        "url": "/reader/quang-am-chi-ngoai-convert/zoyt"
+    },
+    {
+        "chap": "Chương 1023: Đại Đế đệ tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/ntke"
+    },
+    {
+        "chap": "Chương 1024: Nhị Ngưu một lời ba người kinh",
+        "url": "/reader/quang-am-chi-ngoai-convert/kwhs"
+    },
+    {
+        "chap": "Chương 1025: Thợ thủ công khéo léo đích thực của giọng nói.",
+        "url": "/reader/quang-am-chi-ngoai-convert/luks"
+    },
+    {
+        "chap": "Chương 1026: Con cá đã mập, theo như nhu cầu",
+        "url": "/reader/quang-am-chi-ngoai-convert/wuhn"
+    },
+    {
+        "chap": "Chương 1027: Thật là ăn vụng!",
+        "url": "/reader/quang-am-chi-ngoai-convert/jwqi"
+    },
+    {
+        "chap": "Chương 1028: May mắn thần quyền",
+        "url": "/reader/quang-am-chi-ngoai-convert/koul"
+    },
+    {
+        "chap": "Chương 1029: Ngươi đưa của hồi môn, ta vào phòng động",
+        "url": "/reader/quang-am-chi-ngoai-convert/tlcf"
+    },
+    {
+        "chap": "Chương 1030: Đoạt Chân Thần chi quyền",
+        "url": "/reader/quang-am-chi-ngoai-convert/wxhk"
+    },
+    {
+        "chap": "Chương 1031: Tiểu A Thanh, ngươi xem ta đẹp không",
+        "url": "/reader/quang-am-chi-ngoai-convert/zmfv"
+    },
+    {
+        "chap": "Chương 1032: Thanh Ngưu nhập ma vũ",
+        "url": "/reader/quang-am-chi-ngoai-convert/fucq"
+    },
+    {
+        "chap": "Chương 1033: Tiên Thuật: Ngũ cẩu xá tiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/ralu"
+    },
+    {
+        "chap": "Chương 1034: mơ tưởng ăn mảnh!",
+        "url": "/reader/quang-am-chi-ngoai-convert/czlb"
+    },
+    {
+        "chap": "Chương 1035: Thần bí Bụi trắng",
+        "url": "/reader/quang-am-chi-ngoai-convert/sbjp"
+    },
+    {
+        "chap": "Chương 1036: Bệ hạ, ta cũng cần một cái Bí Cảnh tư cách",
+        "url": "/reader/quang-am-chi-ngoai-convert/xrvc"
+    },
+    {
+        "chap": "Chương 1037: Ảnh lưu niệm bên trong ánh nến",
+        "url": "/reader/quang-am-chi-ngoai-convert/uivm"
+    },
+    {
+        "chap": "Chương 1038: Nến đỏ bên cạnh gương mặt đó",
+        "url": "/reader/quang-am-chi-ngoai-convert/nqyz"
+    },
+    {
+        "chap": "Chương 1039: Đệ Cửu tinh hoàn",
+        "url": "/reader/quang-am-chi-ngoai-convert/covj"
+    },
+    {
+        "chap": "Chương 1040: Ta cầu nguyện. . . . .",
+        "url": "/reader/quang-am-chi-ngoai-convert/slip"
+    },
+    {
+        "chap": "Chương 1041 thẳng tiến không lùi",
+        "url": "/reader/quang-am-chi-ngoai-convert/uyxo"
+    },
+    {
+        "chap": "Chương 1042： Nghiền nát Chí Cao Thần quyền",
+        "url": "/reader/quang-am-chi-ngoai-convert/wktb"
+    },
+    {
+        "chap": "Chương 1043: Lưng có nến đỏ",
+        "url": "/reader/quang-am-chi-ngoai-convert/vqwt"
+    },
+    {
+        "chap": "Chương 1044: mệnh cùng vận!",
+        "url": "/reader/quang-am-chi-ngoai-convert/xlde"
+    },
+    {
+        "chap": "Chương 1045: phụng chỉ liều lĩnh",
+        "url": "/reader/quang-am-chi-ngoai-convert/rubq"
+    },
+    {
+        "chap": "Chương 1046: cẩu tặc nổi danh",
+        "url": "/reader/quang-am-chi-ngoai-convert/hklr"
+    },
+    {
+        "chap": "Chương 1047: Bên dưới da hổ thật tốt hóng mát",
+        "url": "/reader/quang-am-chi-ngoai-convert/nbhl"
+    },
+    {
+        "chap": "Chương 1048: Tiên Thuật chi quỷ",
+        "url": "/reader/quang-am-chi-ngoai-convert/yazx"
+    },
+    {
+        "chap": "Chương 1049: Tấm lòng biết ơn",
+        "url": "/reader/quang-am-chi-ngoai-convert/npro"
+    },
+    {
+        "chap": "Chương 1050: Tây Ma Tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/ruqx"
+    },
+    {
+        "chap": "Chương 1051+1052: Ma Linh phá hủ, Ma Biến",
+        "url": "/reader/quang-am-chi-ngoai-convert/khmz"
+    },
+    {
+        "chap": "Chương 1053: Khắc xuống vận mệnh của ngươi",
+        "url": "/reader/quang-am-chi-ngoai-convert/fisg"
+    },
+    {
+        "chap": "Chương 1054: Cuộc chiến bảo vệ con cái",
+        "url": "/reader/quang-am-chi-ngoai-convert/vmhe"
+    },
+    {
+        "chap": "Chương 1056: Bi thảm Ngưu Ngưu",
+        "url": "/reader/quang-am-chi-ngoai-convert/ryhs"
+    },
+    {
+        "chap": "Chương 1057: Viễn Cổ cự nghiệt",
+        "url": "/reader/quang-am-chi-ngoai-convert/ylfk"
+    },
+    {
+        "chap": "Chương 1055: Xoay người sang chỗ khác",
+        "url": "/reader/quang-am-chi-ngoai-convert/musr"
+    },
+    {
+        "chap": "Chương 1058: đây là lão tử xương cốt!",
+        "url": "/reader/quang-am-chi-ngoai-convert/zfoc"
+    },
+    {
+        "chap": "Chương 1059: Hứa Thanh: Ngươi cái gì cũng trộm a",
+        "url": "/reader/quang-am-chi-ngoai-convert/gone"
+    },
+    {
+        "chap": "Chương 1060: hoa hòe loè loẹt",
+        "url": "/reader/quang-am-chi-ngoai-convert/khaz"
+    },
+    {
+        "chap": "Chương 1061: Ngươi năm đó tự bạo.",
+        "url": "/reader/quang-am-chi-ngoai-convert/osbx"
+    },
+    {
+        "chap": "Chương 1062: Đế mộ, mở ra!",
+        "url": "/reader/quang-am-chi-ngoai-convert/inrp"
+    },
+    {
+        "chap": "Chương 1063: Ly Kim",
+        "url": "/reader/quang-am-chi-ngoai-convert/cymv"
+    },
+    {
+        "chap": "Chương 1064: Nhìn thấy manh mối đầu tiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/ngls"
+    },
+    {
+        "chap": "Chương 1065: Ta đã chinh phục này tinh!",
+        "url": "/reader/quang-am-chi-ngoai-convert/wqpf"
+    },
+    {
+        "chap": "Chương 1066: Màn mưa bên trong phần mộ cương vị",
+        "url": "/reader/quang-am-chi-ngoai-convert/zdfh"
+    },
+    {
+        "chap": "Chương 1067: Thức tỉnh đi, chiến binh của ta",
+        "url": "/reader/quang-am-chi-ngoai-convert/rkva"
+    },
+    {
+        "chap": "Chương 1068: Rất tốt người một nhà",
+        "url": "/reader/quang-am-chi-ngoai-convert/bdua"
+    },
+    {
+        "chap": "Chương 1069: Cái này, có Chí Bảo",
+        "url": "/reader/quang-am-chi-ngoai-convert/mrpf"
+    },
+    {
+        "chap": "Chương 1070: Một chạm là nổ",
+        "url": "/reader/quang-am-chi-ngoai-convert/feba"
+    },
+    {
+        "chap": "Chương 1071: Hỏa Trung Thủ Lật [Lấy hạt dẻ từ trong lửa]",
+        "url": "/reader/quang-am-chi-ngoai-convert/ywsn"
+    },
+    {
+        "chap": "Chương 1072: Tiên cốt sống lại",
+        "url": "/reader/quang-am-chi-ngoai-convert/vsmh"
+    },
+    {
+        "chap": "Chương 1073: Người đã đông đủ",
+        "url": "/reader/quang-am-chi-ngoai-convert/bfdx"
+    },
+    {
+        "chap": "Chương 1074: Rửa rau",
+        "url": "/reader/quang-am-chi-ngoai-convert/bcos"
+    },
+    {
+        "chap": "Chương 1075: Thân thể của ngươi, ta muốn lấy",
+        "url": "/reader/quang-am-chi-ngoai-convert/umbd"
+    },
+    {
+        "chap": "Chương 1076: Nhập xá, thành ngoại tà",
+        "url": "/reader/quang-am-chi-ngoai-convert/hcfd"
+    },
+    {
+        "chap": "Chương 1077: Ta cầu nguyện...",
+        "url": "/reader/quang-am-chi-ngoai-convert/aeox"
+    },
+    {
+        "chap": "Chương 1078: Tiên cực chi lộ",
+        "url": "/reader/quang-am-chi-ngoai-convert/odtp"
+    },
+    {
+        "chap": "Chương 1079: Người kia, là ai?",
+        "url": "/reader/quang-am-chi-ngoai-convert/mknb"
+    },
+    {
+        "chap": "Chương 1080: Uẩn Tiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/onjt"
+    },
+    {
+        "chap": "Chương 1081: Chấp niệm sinh tử, khó nói buông bỏ",
+        "url": "/reader/quang-am-chi-ngoai-convert/scoz"
+    },
+    {
+        "chap": "Chương 1082: Ngàn núi vọng lại, nhớ mãi không quên",
+        "url": "/reader/quang-am-chi-ngoai-convert/rght"
+    },
+    {
+        "chap": "Chương 1083-1084-1085: Nhất niệm buông bỏ, chính là trùng sinh / Không tiếc nuối, không hổ thẹn, không hối hận / Cách thiên nhìn nhau",
+        "url": "/reader/quang-am-chi-ngoai-convert/vkjg"
+    },
+    {
+        "chap": "Chương 1086: Kiếm lưu nhân gian",
+        "url": "/reader/quang-am-chi-ngoai-convert/rfso"
+    },
+    {
+        "chap": "Chương 1087: Trong mưa gió ước định",
+        "url": "/reader/quang-am-chi-ngoai-convert/pivf"
+    },
+    {
+        "chap": "Chương 1088: Điểm đến của Hứa Thanh",
+        "url": "/reader/quang-am-chi-ngoai-convert/awej"
+    },
+    {
+        "chap": "Chương 1089: Ngươi biết cách báo đáp tỷ tỷ, phải không?",
+        "url": "/reader/quang-am-chi-ngoai-convert/rbpo"
+    },
+    {
+        "chap": "Chương 1090: Rời Vọng Cổ, bước vào Tiên đô",
+        "url": "/reader/quang-am-chi-ngoai-convert/iypu"
+    },
+    {
+        "chap": "Chương 1091: Thế giới chưa biết",
+        "url": "/reader/quang-am-chi-ngoai-convert/kbdf"
+    },
+    {
+        "chap": "Chương 1092: Bầu trời của tiểu thế giới",
+        "url": "/reader/quang-am-chi-ngoai-convert/crlo"
+    },
+    {
+        "chap": "Chương 1093: Mỏ Luyện thần linh",
+        "url": "/reader/quang-am-chi-ngoai-convert/rilu"
+    },
+    {
+        "chap": "Chương 1094: Chiến Chúa Tể",
+        "url": "/reader/quang-am-chi-ngoai-convert/sfjc"
+    },
+    {
+        "chap": "Chương 1095: bảo quang, ánh đao, kiếm quang",
+        "url": "/reader/quang-am-chi-ngoai-convert/cpbj"
+    },
+    {
+        "chap": "Chương 1096: Trảm Chúa tể, nhất kích tất sát!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ebjo"
+    },
+    {
+        "chap": "Chương 1097: Thu hoạch khổng lồ",
+        "url": "/reader/quang-am-chi-ngoai-convert/dfux"
+    },
+    {
+        "chap": "Chương 1098: Nhân quả bên ngoài",
+        "url": "/reader/quang-am-chi-ngoai-convert/slxa"
+    },
+    {
+        "chap": "Chương 1099: Trời cao biển rộng",
+        "url": "/reader/quang-am-chi-ngoai-convert/srxt"
+    },
+    {
+        "chap": "Chương 1100: Đệ Ngũ tinh hoàn",
+        "url": "/reader/quang-am-chi-ngoai-convert/enri"
+    },
+    {
+        "chap": "Chương 1101: Người đưa đò",
+        "url": "/reader/quang-am-chi-ngoai-convert/sukz"
+    },
+    {
+        "chap": "Chương 1102: Huyết Thiên hiện Tinh Thần",
+        "url": "/reader/quang-am-chi-ngoai-convert/inra"
+    },
+    {
+        "chap": "Chương 1103: Ai mới là chủ nhân của mưa",
+        "url": "/reader/quang-am-chi-ngoai-convert/eqdh"
+    },
+    {
+        "chap": "Chương 1104: Nguồn gốc của quyền hành",
+        "url": "/reader/quang-am-chi-ngoai-convert/ikzn"
+    },
+    {
+        "chap": "Chương 1105: Bóng tối vẫn còn",
+        "url": "/reader/quang-am-chi-ngoai-convert/cpmr"
+    },
+    {
+        "chap": "Chương 1106: Lão Lục gặp Lão Lục",
+        "url": "/reader/quang-am-chi-ngoai-convert/kebi"
+    },
+    {
+        "chap": "Chương 1107: Keo dính phong thiên địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/bdjs"
+    },
+    {
+        "chap": "Chương 1108+1109: Lột Da/ Người đưa đò Thần Hà",
+        "url": "/reader/quang-am-chi-ngoai-convert/gevz"
+    },
+    {
+        "chap": "Chương 1110: Con đường tu tiên mịt mờ",
+        "url": "/reader/quang-am-chi-ngoai-convert/yzge"
+    },
+    {
+        "chap": "Chương 1111: Thần Minh Tối Sơ",
+        "url": "/reader/quang-am-chi-ngoai-convert/hrfa"
+    },
+    {
+        "chap": "Chương 1112: Vân Môn",
+        "url": "/reader/quang-am-chi-ngoai-convert/dpjn"
+    },
+    {
+        "chap": "Chương 1113: Vân Môn Thiên Phàm",
+        "url": "/reader/quang-am-chi-ngoai-convert/tdcy"
+    },
+    {
+        "chap": "Chương 1114: Tiểu Thị Nữ Ngoan Ngoãn",
+        "url": "/reader/quang-am-chi-ngoai-convert/xohd"
+    },
+    {
+        "chap": "Chương 1115: Lấy Thần Làm Nô",
+        "url": "/reader/quang-am-chi-ngoai-convert/awho"
+    },
+    {
+        "chap": "Chương 1116: Giang hồ mênh mông",
+        "url": "/reader/quang-am-chi-ngoai-convert/pgln"
+    },
+    {
+        "chap": "Chương 1117: Hướng đi của Đệ Bát Cực",
+        "url": "/reader/quang-am-chi-ngoai-convert/pkaj"
+    },
+    {
+        "chap": "Chương 1118: Có thể không phải là kẻ thù",
+        "url": "/reader/quang-am-chi-ngoai-convert/mnva"
+    },
+    {
+        "chap": "Chương 1119: Trời lớn đất rộng",
+        "url": "/reader/quang-am-chi-ngoai-convert/gkjh"
+    },
+    {
+        "chap": "Chương 1120: Tứ Tiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/hdnv"
+    },
+    {
+        "chap": "Chương 1121: Hoa Thực Đạo",
+        "url": "/reader/quang-am-chi-ngoai-convert/nhvy"
+    },
+    {
+        "chap": "Chương 1122: Gia sản họ Lý",
+        "url": "/reader/quang-am-chi-ngoai-convert/apxz"
+    },
+    {
+        "chap": "Chương 1123: Tranh đạo",
+        "url": "/reader/quang-am-chi-ngoai-convert/wktg"
+    },
+    {
+        "chap": "Chương 1124: Không phải ân oán, chỉ luận sinh tử",
+        "url": "/reader/quang-am-chi-ngoai-convert/sjcn"
+    },
+    {
+        "chap": "Chương 1125+1126 : Cực quang khắp trời, như tiên hồng đến / Ai cũng có tâm cơ",
+        "url": "/reader/quang-am-chi-ngoai-convert/safm"
+    },
+    {
+        "chap": "Chương 1127: Bức hoạ mở ra một đường",
+        "url": "/reader/quang-am-chi-ngoai-convert/pctb"
+    },
+    {
+        "chap": "Chương 1128: Thiên địa là quán trọ của vạn vật chúng sinh",
+        "url": "/reader/quang-am-chi-ngoai-convert/jnhb"
+    },
+    {
+        "chap": "Chương 1129: Thời gian là khách qua đường từ xưa đến nay",
+        "url": "/reader/quang-am-chi-ngoai-convert/milj"
+    },
+    {
+        "chap": "Chương 1130: Bát Cực Đạo Tướng ra đời",
+        "url": "/reader/quang-am-chi-ngoai-convert/necu"
+    },
+    {
+        "chap": "Chương 1131: Chân ngã xuất hiện, tạo thời không!",
+        "url": "/reader/quang-am-chi-ngoai-convert/ahfd"
+    },
+    {
+        "chap": "Chương 1132: Thế nào là Hiến?",
+        "url": "/reader/quang-am-chi-ngoai-convert/sled"
+    },
+    {
+        "chap": "Chương 1133: Thanh niên thời không",
+        "url": "/reader/quang-am-chi-ngoai-convert/jsct"
+    },
+    {
+        "chap": "Chương 1133: Thời Không thanh lâm",
+        "url": "/reader/quang-am-chi-ngoai-convert/vtwf"
+    },
+    {
+        "chap": "Chương 1134: Đại Đạo Thanh Thiên",
+        "url": "/reader/quang-am-chi-ngoai-convert/tokw"
+    },
+    {
+        "chap": "Chương 1135: Tiên vẫn chi địa",
+        "url": "/reader/quang-am-chi-ngoai-convert/agfo"
+    },
+    {
+        "chap": "Chương 1136: Kẻ thù gặp mặt",
+        "url": "/reader/quang-am-chi-ngoai-convert/lvjq"
+    },
+    {
+        "chap": "Chương 1137: Tiên cung mở ra",
+        "url": "/reader/quang-am-chi-ngoai-convert/wdcu"
+    },
+    {
+        "chap": "Chương 1138: Ngươi vào đây đi!",
+        "url": "/reader/quang-am-chi-ngoai-convert/lnzh"
+    },
+    {
+        "chap": "Chương 1139: Trong Truyện Cổ Tích.",
+        "url": "/reader/quang-am-chi-ngoai-convert/tvpx"
+    },
+    {
+        "chap": "Chương 1140: Đó là hắn...",
+        "url": "/reader/quang-am-chi-ngoai-convert/lqra"
+    },
+    {
+        "chap": "Chương 1141: Ta là Cực Quang",
+        "url": "/reader/quang-am-chi-ngoai-convert/fxho"
+    },
+    {
+        "chap": "Chương 1142: Thoát khỏi cổ tích",
+        "url": "/reader/quang-am-chi-ngoai-convert/iqae"
+    },
+    {
+        "chap": "Chương 1143: Ngươi hãy để ta nói hết đã!",
+        "url": "/reader/quang-am-chi-ngoai-convert/epyn"
+    }
+]
